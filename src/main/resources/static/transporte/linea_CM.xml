@@ -1,0 +1,147 @@
+<?xml version="1.0" standalone="yes"?>
+<records>
+	<record>
+		<stopCode>211</stopCode>
+		<stopName>Plaza La Libertad (Tubasa)</stopName>
+		<shapePtLat>38.875414</shapePtLat>
+		<shapePtLon>-6.974404</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>3,5,6,7,9,18,S2,11,13,CM,5N,6N,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>248</stopCode>
+		<stopName>Calle Enrique Segura Otaño  3</stopName>
+		<shapePtLat>38.873182</shapePtLat>
+		<shapePtLon>-6.974466</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>2,3,5,6,7,9,18,21,11,13,M3,M4,CM,5N,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>236</stopCode>
+		<stopName>Av. de Fernando Calzadilla  16</stopName>
+		<shapePtLat>38.869780</shapePtLat>
+		<shapePtLon>-6.973076</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>3,4,5,6,9,S2,11,13,12,M1,CM,5N</lineas>
+	</record>
+	<record>
+		<stopCode>149</stopCode>
+		<stopName>Av. Damián Téllez Lafuente  11</stopName>
+		<shapePtLat>38.867921</shapePtLat>
+		<shapePtLon>-6.973194</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>3,4,6,9,11,13,12,M1,CM</lineas>
+	</record>
+	<record>
+		<stopCode>150</stopCode>
+		<stopName>Estacion Autobuses</stopName>
+		<shapePtLat>38.866723</shapePtLat>
+		<shapePtLon>-6.974287</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>3,11,13,CM</lineas>
+	</record>
+	<record>
+		<stopCode>153</stopCode>
+		<stopName>Av. Damián Téllez Lafuente  30</stopName>
+		<shapePtLat>38.864525</shapePtLat>
+		<shapePtLon>-6.972846</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>3,6,9,C1,S1,M1,CM</lineas>
+	</record>
+	<record>
+		<stopCode>126</stopCode>
+		<stopName>Ctra Valverde 1A</stopName>
+		<shapePtLat>38.858658</shapePtLat>
+		<shapePtLon>-6.970422</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>6,9,M3,CM,6N</lineas>
+	</record>
+	<record>
+		<stopCode>127</stopCode>
+		<stopName>Ctra Valverde 2A</stopName>
+		<shapePtLat>38.852789</shapePtLat>
+		<shapePtLon>-6.967755</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>6,9,M3,CM,6N</lineas>
+	</record>
+	<record>
+		<stopCode>128</stopCode>
+		<stopName>Ctra Valverde 3A</stopName>
+		<shapePtLat>38.848891</shapePtLat>
+		<shapePtLon>-6.967081</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>6,9,M3,CM,6N</lineas>
+	</record>
+	<record>
+		<stopCode>1790</stopCode>
+		<stopName>Cementerio Nuevo</stopName>
+		<shapePtLat>38.784264</shapePtLat>
+		<shapePtLon>-6.994085</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>CM</lineas>
+	</record>
+	<record>
+		<stopCode>138</stopCode>
+		<stopName>Ctra Valverde 1</stopName>
+		<shapePtLat>38.849509</shapePtLat>
+		<shapePtLon>-6.966909</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>6,9,M3,CM,6N</lineas>
+	</record>
+	<record>
+		<stopCode>139</stopCode>
+		<stopName>Ctra Valverde 2</stopName>
+		<shapePtLat>38.854116</shapePtLat>
+		<shapePtLon>-6.967875</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>6,9,M3,CM,6N</lineas>
+	</record>
+	<record>
+		<stopCode>140</stopCode>
+		<stopName>Ctra Valverde 3</stopName>
+		<shapePtLat>38.859809</shapePtLat>
+		<shapePtLon>-6.971038</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>6,9,M3,CM,6N</lineas>
+	</record>
+	<record>
+		<stopCode>147</stopCode>
+		<stopName>Av. Damián Téllez Lafuente  27</stopName>
+		<shapePtLat>38.864882</shapePtLat>
+		<shapePtLon>-6.972590</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>6,9,S1,12,M1,CM,6N</lineas>
+	</record>
+	<record>
+		<stopCode>148</stopCode>
+		<stopName>Av. Damián Téllez Lafuente  9</stopName>
+		<shapePtLat>38.868194</shapePtLat>
+		<shapePtLon>-6.973009</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>3,6,9,11,13,12,M1,CM,6N</lineas>
+	</record>
+	<record>
+		<stopCode>160</stopCode>
+		<stopName>Av. de Fernando Calzadilla  25</stopName>
+		<shapePtLat>38.869767</shapePtLat>
+		<shapePtLon>-6.972974</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>3,5,9,S2,12,M1,CM,5N</lineas>
+	</record>
+	<record>
+		<stopCode>157</stopCode>
+		<stopName>Av. de Europa  3</stopName>
+		<shapePtLat>38.874271</shapePtLat>
+		<shapePtLon>-6.972692</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>2,3,5,9,CM,5N</lineas>
+	</record>
+	<record>
+		<stopCode>202</stopCode>
+		<stopName>Plaza de La Libertad</stopName>
+		<shapePtLat>38.875516</shapePtLat>
+		<shapePtLon>-6.974570</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>3,5,6,7,9,18,S1,S2,11,13,CA,CM,5N,6N,7N,18N,9N</lineas>
+	</record>
+</records>

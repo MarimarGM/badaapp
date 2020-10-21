@@ -1,0 +1,195 @@
+<?xml version="1.0" standalone="yes"?>
+<records>
+	<record>
+		<stopCode>202</stopCode>
+		<stopName>Plaza de La Libertad</stopName>
+		<shapePtLat>38.875516</shapePtLat>
+		<shapePtLon>-6.974570</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>3,5,6,7,9,18,S1,S2,11,13,CA,CM,5N,6N,7N,18N,9N</lineas>
+	</record>
+	<record>
+		<stopCode>207</stopCode>
+		<stopName>Av. de Cristobal Colón  10</stopName>
+		<shapePtLat>38.875846</shapePtLat>
+		<shapePtLon>-6.977402</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>3,5,7,9,S1,5N,7N,18N,9N</lineas>
+	</record>
+	<record>
+		<stopCode>1</stopCode>
+		<stopName>Av. de Cristobal Colón  27</stopName>
+		<shapePtLat>38.873696</shapePtLat>
+		<shapePtLon>-6.980181</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>3,5,7,9,S1,5N,7N,18N,9N</lineas>
+	</record>
+	<record>
+		<stopCode>124</stopCode>
+		<stopName>Avenida del Perú  2</stopName>
+		<shapePtLat>38.873448</shapePtLat>
+		<shapePtLon>-6.982245</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>5,7,9,S1,5N,18N,9N</lineas>
+	</record>
+	<record>
+		<stopCode>111</stopCode>
+		<stopName>Av. Tomás Romero de Castilla  7</stopName>
+		<shapePtLat>38.872081</shapePtLat>
+		<shapePtLon>-6.983534</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>9,S1,9N</lineas>
+	</record>
+	<record>
+		<stopCode>118</stopCode>
+		<stopName>Calle Vicente Delgado Algaba  100</stopName>
+		<shapePtLat>38.865942</shapePtLat>
+		<shapePtLon>-6.975085</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>C1,S1</lineas>
+	</record>
+	<record>
+		<stopCode>153</stopCode>
+		<stopName>Av. Damián Téllez Lafuente  30</stopName>
+		<shapePtLat>38.864525</shapePtLat>
+		<shapePtLon>-6.972846</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>3,6,9,C1,S1,M1,CM</lineas>
+	</record>
+	<record>
+		<stopCode>141</stopCode>
+		<stopName>Av. Vicente Marcelo Nessi  36</stopName>
+		<shapePtLat>38.862032</shapePtLat>
+		<shapePtLon>-6.969163</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>3,4,C1,S1</lineas>
+	</record>
+	<record>
+		<stopCode>218</stopCode>
+		<stopName>Av. Vicente Marcelo Nessi  52</stopName>
+		<shapePtLat>38.864003</shapePtLat>
+		<shapePtLon>-6.962420</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>4,C1,S1</lineas>
+	</record>
+	<record>
+		<stopCode>219</stopCode>
+		<stopName>Av. Luis de Góngora  8</stopName>
+		<shapePtLat>38.866498</shapePtLat>
+		<shapePtLon>-6.961165</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>4,C1,S1,5N</lineas>
+	</record>
+	<record>
+		<stopCode>220</stopCode>
+		<stopName>Av. Luis de Góngora  6</stopName>
+		<shapePtLat>38.867459</shapePtLat>
+		<shapePtLon>-6.958621</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>4,C1,S1,5N</lineas>
+	</record>
+	<record>
+		<stopCode>1786</stopCode>
+		<stopName>Urb. Los Montitos 1</stopName>
+		<shapePtLat>38.863545</shapePtLat>
+		<shapePtLon>-6.944733</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>S1</lineas>
+	</record>
+	<record>
+		<stopCode>1787</stopCode>
+		<stopName>Urb. Los Montitos 2</stopName>
+		<shapePtLat>38.861676</shapePtLat>
+		<shapePtLon>-6.940257</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>S1</lineas>
+	</record>
+	<record>
+		<stopCode>1788</stopCode>
+		<stopName>Urb. Los Montitos 3</stopName>
+		<shapePtLat>38.863610</shapePtLat>
+		<shapePtLon>-6.944505</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>S1</lineas>
+	</record>
+	<record>
+		<stopCode>221</stopCode>
+		<stopName>Av. Luis de Góngora 1</stopName>
+		<shapePtLat>38.867624</shapePtLat>
+		<shapePtLon>-6.958747</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>C2,S1,5N</lineas>
+	</record>
+	<record>
+		<stopCode>222</stopCode>
+		<stopName>Av. Luis de Góngora 2</stopName>
+		<shapePtLat>38.866651</shapePtLat>
+		<shapePtLon>-6.961248</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>C2,S1,5N</lineas>
+	</record>
+	<record>
+		<stopCode>223</stopCode>
+		<stopName>Av. Salvador Allende</stopName>
+		<shapePtLat>38.863325</shapePtLat>
+		<shapePtLon>-6.962646</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>C2,S1</lineas>
+	</record>
+	<record>
+		<stopCode>146</stopCode>
+		<stopName>Av. Vicente Marcelo Nessi  35</stopName>
+		<shapePtLat>38.862183</shapePtLat>
+		<shapePtLon>-6.969127</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>C2,S1</lineas>
+	</record>
+	<record>
+		<stopCode>147</stopCode>
+		<stopName>Av. Damián Téllez Lafuente  27</stopName>
+		<shapePtLat>38.864882</shapePtLat>
+		<shapePtLon>-6.972590</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>6,9,S1,12,M1,CM,6N</lineas>
+	</record>
+	<record>
+		<stopCode>151</stopCode>
+		<stopName>Calle Jacobo Rodríguez Pereira  38</stopName>
+		<shapePtLat>38.867617</shapePtLat>
+		<shapePtLon>-6.974992</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>C2,S1</lineas>
+	</record>
+	<record>
+		<stopCode>103</stopCode>
+		<stopName>Av. Tomás Romero de Castilla  12</stopName>
+		<shapePtLat>38.871912</shapePtLat>
+		<shapePtLon>-6.983318</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>9,S1,9N</lineas>
+	</record>
+	<record>
+		<stopCode>125</stopCode>
+		<stopName>Avenida del Perú  5</stopName>
+		<shapePtLat>38.873382</shapePtLat>
+		<shapePtLon>-6.982148</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>5,7,9,S1,5N,18N,9N</lineas>
+	</record>
+	<record>
+		<stopCode>2</stopCode>
+		<stopName>Av. de Cristobal Colón  15</stopName>
+		<shapePtLat>38.873579</shapePtLat>
+		<shapePtLon>-6.980034</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>5,7,9,S1,5N,18N,9N</lineas>
+	</record>
+	<record>
+		<stopCode>210</stopCode>
+		<stopName>Av. de Cristobal Colón  11</stopName>
+		<shapePtLat>38.875427</shapePtLat>
+		<shapePtLon>-6.977506</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>3,5,7,9,S1,5N,7N,18N</lineas>
+	</record>
+</records>

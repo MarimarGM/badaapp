@@ -1,0 +1,171 @@
+<?xml version="1.0" standalone="yes"?>
+<records>
+	<record>
+		<stopCode>141</stopCode>
+		<stopName>Av. Vicente Marcelo Nessi  36</stopName>
+		<shapePtLat>38.862032</shapePtLat>
+		<shapePtLon>-6.969163</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>3,4,C1,S1</lineas>
+	</record>
+	<record>
+		<stopCode>218</stopCode>
+		<stopName>Av. Vicente Marcelo Nessi  52</stopName>
+		<shapePtLat>38.864003</shapePtLat>
+		<shapePtLon>-6.962420</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>4,C1,S1</lineas>
+	</record>
+	<record>
+		<stopCode>219</stopCode>
+		<stopName>Av. Luis de Góngora  8</stopName>
+		<shapePtLat>38.866498</shapePtLat>
+		<shapePtLon>-6.961165</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>4,C1,S1,5N</lineas>
+	</record>
+	<record>
+		<stopCode>220</stopCode>
+		<stopName>Av. Luis de Góngora  6</stopName>
+		<shapePtLat>38.867459</shapePtLat>
+		<shapePtLon>-6.958621</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>4,C1,S1,5N</lineas>
+	</record>
+	<record>
+		<stopCode>190</stopCode>
+		<stopName>Av. Antonio Hernández Gil  18</stopName>
+		<shapePtLat>38.871599</shapePtLat>
+		<shapePtLon>-6.956232</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>4,5,C2,5N</lineas>
+	</record>
+	<record>
+		<stopCode>191</stopCode>
+		<stopName>Ctra de Sevilla</stopName>
+		<shapePtLat>38.872362</shapePtLat>
+		<shapePtLon>-6.959694</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>4,5,S2,5N</lineas>
+	</record>
+	<record>
+		<stopCode>193</stopCode>
+		<stopName>Calle Santo Cristo de La Paz  53</stopName>
+		<shapePtLat>38.874280</shapePtLat>
+		<shapePtLon>-6.961800</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>4</lineas>
+	</record>
+	<record>
+		<stopCode>194</stopCode>
+		<stopName>Calle Santo Cristo de La Paz  27</stopName>
+		<shapePtLat>38.876911</shapePtLat>
+		<shapePtLon>-6.961268</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>4,M3,M4</lineas>
+	</record>
+	<record>
+		<stopCode>1752</stopCode>
+		<stopName>Calle Corte de Peleas  40</stopName>
+		<shapePtLat>38.876681</shapePtLat>
+		<shapePtLon>-6.958525</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>4,7,M3,M4</lineas>
+	</record>
+	<record>
+		<stopCode>196</stopCode>
+		<stopName>Calle Isidro Pacense  11</stopName>
+		<shapePtLat>38.877340</shapePtLat>
+		<shapePtLon>-6.955676</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>4,C1</lineas>
+	</record>
+	<record>
+		<stopCode>176</stopCode>
+		<stopName>Av. Ricardo Carapeto Zambrano  67</stopName>
+		<shapePtLat>38.878947</shapePtLat>
+		<shapePtLon>-6.956224</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>4,18,C1,21,12,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>177</stopCode>
+		<stopName>Av. Ricardo Carapeto Zambrano  35</stopName>
+		<shapePtLat>38.879199</shapePtLat>
+		<shapePtLon>-6.958875</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>4,18,C1,21,12,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>178</stopCode>
+		<stopName>Av. Ricardo Carapeto Zambrano  9</stopName>
+		<shapePtLat>38.879160</shapePtLat>
+		<shapePtLon>-6.961473</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>4,18,C1,21,12,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>197</stopCode>
+		<stopName>Ronda del Pilar  57</stopName>
+		<shapePtLat>38.876284</shapePtLat>
+		<shapePtLon>-6.966831</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>4,7,18,21,12,CA,M3,M4,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>198</stopCode>
+		<stopName>Ronda del Pilar  29</stopName>
+		<shapePtLat>38.875583</shapePtLat>
+		<shapePtLon>-6.969416</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>4,7,18,21,12,CA,M3,M4,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>199</stopCode>
+		<stopName>Ronda del Pilar</stopName>
+		<shapePtLat>38.875261</shapePtLat>
+		<shapePtLon>-6.971206</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>4,7,18,21,12,M3,M4,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>158</stopCode>
+		<stopName>Av. de Europa  10</stopName>
+		<shapePtLat>38.873826</shapePtLat>
+		<shapePtLon>-6.972807</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>4,12</lineas>
+	</record>
+	<record>
+		<stopCode>236</stopCode>
+		<stopName>Av. de Fernando Calzadilla  16</stopName>
+		<shapePtLat>38.869780</shapePtLat>
+		<shapePtLon>-6.973076</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>3,4,5,6,9,S2,11,13,12,M1,CM,5N</lineas>
+	</record>
+	<record>
+		<stopCode>149</stopCode>
+		<stopName>Av. Damián Téllez Lafuente  11</stopName>
+		<shapePtLat>38.867921</shapePtLat>
+		<shapePtLon>-6.973194</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>3,4,6,9,11,13,12,M1,CM</lineas>
+	</record>
+	<record>
+		<stopCode>155</stopCode>
+		<stopName>Calle Antonio de Chaves  2</stopName>
+		<shapePtLat>38.864727</shapePtLat>
+		<shapePtLon>-6.973205</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>4,12</lineas>
+	</record>
+	<record>
+		<stopCode>154</stopCode>
+		<stopName>Plaza Hermanos Mediero Encinas  15</stopName>
+		<shapePtLat>38.864386</shapePtLat>
+		<shapePtLon>-6.976960</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>4,12,M1,M3</lineas>
+	</record>
+</records>

@@ -1,0 +1,275 @@
+<?xml version="1.0" standalone="yes"?>
+<records>
+	<record>
+		<stopCode>150</stopCode>
+		<stopName>Estacion Autobuses</stopName>
+		<shapePtLat>38.866723</shapePtLat>
+		<shapePtLon>-6.974287</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>3,11,13,CM</lineas>
+	</record>
+	<record>
+		<stopCode>148</stopCode>
+		<stopName>Av. Damián Téllez Lafuente  9</stopName>
+		<shapePtLat>38.868194</shapePtLat>
+		<shapePtLon>-6.973009</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>3,6,9,11,13,12,M1,CM,6N</lineas>
+	</record>
+	<record>
+		<stopCode>242</stopCode>
+		<stopName>Av. Juan Pereda Pila  29</stopName>
+		<shapePtLat>38.869322</shapePtLat>
+		<shapePtLon>-6.974298</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>6,11,13,6N</lineas>
+	</record>
+	<record>
+		<stopCode>216</stopCode>
+		<stopName>Av. Villanueva  9</stopName>
+		<shapePtLat>38.871045</shapePtLat>
+		<shapePtLon>-6.978046</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>6,11,13,M1,M3,6N</lineas>
+	</record>
+	<record>
+		<stopCode>217</stopCode>
+		<stopName>Av. de Huelva  5</stopName>
+		<shapePtLat>38.873487</shapePtLat>
+		<shapePtLon>-6.974836</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>6,S2,11,13,6N,9N</lineas>
+	</record>
+	<record>
+		<stopCode>202</stopCode>
+		<stopName>Plaza de La Libertad</stopName>
+		<shapePtLat>38.875516</shapePtLat>
+		<shapePtLon>-6.974570</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>3,5,6,7,9,18,S1,S2,11,13,CA,CM,5N,6N,7N,18N,9N</lineas>
+	</record>
+	<record>
+		<stopCode>203</stopCode>
+		<stopName>Av. Santiago Ramón Y Cajal  11</stopName>
+		<shapePtLat>38.876997</shapePtLat>
+		<shapePtLon>-6.976973</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>6,18,11,13,CA,6N</lineas>
+	</record>
+	<record>
+		<stopCode>204</stopCode>
+		<stopName>Plaza Reyes Católicos  7</stopName>
+		<shapePtLat>38.880489</shapePtLat>
+		<shapePtLon>-6.975189</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>6,18,11,13,CA,6N</lineas>
+	</record>
+	<record>
+		<stopCode>1748</stopCode>
+		<stopName>Avenida de Adolfo Suárez</stopName>
+		<shapePtLat>38.885997</shapePtLat>
+		<shapePtLon>-6.974531</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>6,C1,11,13</lineas>
+	</record>
+	<record>
+		<stopCode>14</stopCode>
+		<stopName>Calle Ntra. Sra. de Bótoa 1A</stopName>
+		<shapePtLat>38.895065</shapePtLat>
+		<shapePtLon>-6.969890</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>6,11,13</lineas>
+	</record>
+	<record>
+		<stopCode>15</stopCode>
+		<stopName>Calle Ntra. Sra. de Bótoa 2</stopName>
+		<shapePtLat>38.900002</shapePtLat>
+		<shapePtLon>-6.968367</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>11,13</lineas>
+	</record>
+	<record>
+		<stopCode>1768</stopCode>
+		<stopName>Ctra. Cáceres</stopName>
+		<shapePtLat>38.917207</shapePtLat>
+		<shapePtLon>-6.959592</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>11,13</lineas>
+	</record>
+	<record>
+		<stopCode>1764</stopCode>
+		<stopName>C/. Afrodita 1 (Gevora)</stopName>
+		<shapePtLat>38.922529</shapePtLat>
+		<shapePtLon>-6.939793</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>11,13</lineas>
+	</record>
+	<record>
+		<stopCode>1763</stopCode>
+		<stopName>Calle Ns Guadalupe  7  (Gevora)</stopName>
+		<shapePtLat>38.919616</shapePtLat>
+		<shapePtLon>-6.943359</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>11,13</lineas>
+	</record>
+	<record>
+		<stopCode>1777</stopCode>
+		<stopName>Ctra. EX-209  (Frente Mercoguadiana)</stopName>
+		<shapePtLat>38.916773</shapePtLat>
+		<shapePtLon>-6.926950</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>11</lineas>
+	</record>
+	<record>
+		<stopCode>1771</stopCode>
+		<stopName>Sagrajas (IDA)</stopName>
+		<shapePtLat>38.921575</shapePtLat>
+		<shapePtLon>-6.902159</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>11</lineas>
+	</record>
+	<record>
+		<stopCode>1778</stopCode>
+		<stopName>Finca Sagrajas  14</stopName>
+		<shapePtLat>38.927082</shapePtLat>
+		<shapePtLon>-6.881497</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>11</lineas>
+	</record>
+	<record>
+		<stopCode>1770</stopCode>
+		<stopName>Plaza Mayor (Novelda) IDA</stopName>
+		<shapePtLat>38.938406</shapePtLat>
+		<shapePtLon>-6.833185</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>11</lineas>
+	</record>
+	<record>
+		<stopCode>1769</stopCode>
+		<stopName>Calle Canal  2   (Alcazaba)</stopName>
+		<shapePtLat>38.952484</shapePtLat>
+		<shapePtLon>-6.740917</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>11</lineas>
+	</record>
+	<record>
+		<stopCode>1780</stopCode>
+		<stopName>Plaza Mayor  5 (Novelda)</stopName>
+		<shapePtLat>38.938499</shapePtLat>
+		<shapePtLon>-6.833196</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>11</lineas>
+	</record>
+	<record>
+		<stopCode>1779</stopCode>
+		<stopName>Sagrajas  (Vuelta)</stopName>
+		<shapePtLat>38.921636</shapePtLat>
+		<shapePtLon>-6.902145</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>11</lineas>
+	</record>
+	<record>
+		<stopCode>1776</stopCode>
+		<stopName>Ctra. EX-209 (Mercoguadiana)</stopName>
+		<shapePtLat>38.916782</shapePtLat>
+		<shapePtLon>-6.928275</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>11</lineas>
+	</record>
+	<record>
+		<stopCode>1761</stopCode>
+		<stopName>Ns. Guadalupe (Gevora)</stopName>
+		<shapePtLat>38.919357</shapePtLat>
+		<shapePtLon>-6.943869</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>11,13</lineas>
+	</record>
+	<record>
+		<stopCode>1762</stopCode>
+		<stopName>C/. Afrodita 2 (Gevora)</stopName>
+		<shapePtLat>38.922546</shapePtLat>
+		<shapePtLon>-6.939653</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>11,13</lineas>
+	</record>
+	<record>
+		<stopCode>1767</stopCode>
+		<stopName>Ctra. Caceres</stopName>
+		<shapePtLat>38.917504</shapePtLat>
+		<shapePtLon>-6.959450</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>11,13</lineas>
+	</record>
+	<record>
+		<stopCode>16</stopCode>
+		<stopName>Calle Ntra. Sra. de Bótoa 1</stopName>
+		<shapePtLat>38.900022</shapePtLat>
+		<shapePtLon>-6.968606</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>11,13</lineas>
+	</record>
+	<record>
+		<stopCode>17</stopCode>
+		<stopName>Calle Ntra. Sra. de Bótoa 2A</stopName>
+		<shapePtLat>38.895843</shapePtLat>
+		<shapePtLon>-6.970044</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>11,13</lineas>
+	</record>
+	<record>
+		<stopCode>18</stopCode>
+		<stopName>Rotonda Ntra. Sra. de Botoa</stopName>
+		<shapePtLat>38.886437</shapePtLat>
+		<shapePtLon>-6.975600</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>18,C2,11,13,6N</lineas>
+	</record>
+	<record>
+		<stopCode>205</stopCode>
+		<stopName>Av. Santiago Ramón Y Cajal  9</stopName>
+		<shapePtLat>38.880056</shapePtLat>
+		<shapePtLon>-6.976227</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>6,18,11,13,CA,6N</lineas>
+	</record>
+	<record>
+		<stopCode>206</stopCode>
+		<stopName>Av. Santiago Ramón Y Cajal  4</stopName>
+		<shapePtLat>38.876940</shapePtLat>
+		<shapePtLon>-6.976973</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>6,18,11,13,6N</lineas>
+	</record>
+	<record>
+		<stopCode>211</stopCode>
+		<stopName>Plaza La Libertad (Tubasa)</stopName>
+		<shapePtLat>38.875414</shapePtLat>
+		<shapePtLon>-6.974404</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>3,5,6,7,9,18,S2,11,13,CM,5N,6N,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>248</stopCode>
+		<stopName>Calle Enrique Segura Otaño  3</stopName>
+		<shapePtLat>38.873182</shapePtLat>
+		<shapePtLon>-6.974466</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>2,3,5,6,7,9,18,21,11,13,M3,M4,CM,5N,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>236</stopCode>
+		<stopName>Av. de Fernando Calzadilla  16</stopName>
+		<shapePtLat>38.869780</shapePtLat>
+		<shapePtLon>-6.973076</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>3,4,5,6,9,S2,11,13,12,M1,CM,5N</lineas>
+	</record>
+	<record>
+		<stopCode>149</stopCode>
+		<stopName>Av. Damián Téllez Lafuente  11</stopName>
+		<shapePtLat>38.867921</shapePtLat>
+		<shapePtLon>-6.973194</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>3,4,6,9,11,13,12,M1,CM</lineas>
+	</record>
+</records>

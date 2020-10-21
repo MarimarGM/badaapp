@@ -1,0 +1,299 @@
+<?xml version="1.0" standalone="yes"?>
+<records>
+	<record>
+		<stopCode>219</stopCode>
+		<stopName>Av. Luis de Góngora  8</stopName>
+		<shapePtLat>38.866498</shapePtLat>
+		<shapePtLon>-6.961165</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>4,C1,S1,5N</lineas>
+	</record>
+	<record>
+		<stopCode>220</stopCode>
+		<stopName>Av. Luis de Góngora  6</stopName>
+		<shapePtLat>38.867459</shapePtLat>
+		<shapePtLon>-6.958621</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>4,C1,S1,5N</lineas>
+	</record>
+	<record>
+		<stopCode>190</stopCode>
+		<stopName>Av. Antonio Hernández Gil  18</stopName>
+		<shapePtLat>38.871599</shapePtLat>
+		<shapePtLon>-6.956232</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>4,5,C2,5N</lineas>
+	</record>
+	<record>
+		<stopCode>191</stopCode>
+		<stopName>Ctra de Sevilla</stopName>
+		<shapePtLat>38.872362</shapePtLat>
+		<shapePtLon>-6.959694</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>4,5,S2,5N</lineas>
+	</record>
+	<record>
+		<stopCode>246</stopCode>
+		<stopName>Av. Juan Sebastián Elcano  55</stopName>
+		<shapePtLat>38.871683</shapePtLat>
+		<shapePtLon>-6.963945</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>5,S2,5N</lineas>
+	</record>
+	<record>
+		<stopCode>240</stopCode>
+		<stopName>Av. Juan Sebastián Elcano  41</stopName>
+		<shapePtLat>38.870878</shapePtLat>
+		<shapePtLon>-6.966333</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>5,S2,5N</lineas>
+	</record>
+	<record>
+		<stopCode>241</stopCode>
+		<stopName>Av. Juan Sebastián Elcano  17</stopName>
+		<shapePtLat>38.869304</shapePtLat>
+		<shapePtLon>-6.970921</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>5,S2,5N</lineas>
+	</record>
+	<record>
+		<stopCode>160</stopCode>
+		<stopName>Av. de Fernando Calzadilla  25</stopName>
+		<shapePtLat>38.869767</shapePtLat>
+		<shapePtLon>-6.972974</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>3,5,9,S2,12,M1,CM,5N</lineas>
+	</record>
+	<record>
+		<stopCode>157</stopCode>
+		<stopName>Av. de Europa  3</stopName>
+		<shapePtLat>38.874271</shapePtLat>
+		<shapePtLon>-6.972692</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>2,3,5,9,CM,5N</lineas>
+	</record>
+	<record>
+		<stopCode>202</stopCode>
+		<stopName>Plaza de La Libertad</stopName>
+		<shapePtLat>38.875516</shapePtLat>
+		<shapePtLon>-6.974570</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>3,5,6,7,9,18,S1,S2,11,13,CA,CM,5N,6N,7N,18N,9N</lineas>
+	</record>
+	<record>
+		<stopCode>207</stopCode>
+		<stopName>Av. de Cristobal Colón  10</stopName>
+		<shapePtLat>38.875846</shapePtLat>
+		<shapePtLon>-6.977402</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>3,5,7,9,S1,5N,7N,18N,9N</lineas>
+	</record>
+	<record>
+		<stopCode>1</stopCode>
+		<stopName>Av. de Cristobal Colón  27</stopName>
+		<shapePtLat>38.873696</shapePtLat>
+		<shapePtLon>-6.980181</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>3,5,7,9,S1,5N,7N,18N,9N</lineas>
+	</record>
+	<record>
+		<stopCode>124</stopCode>
+		<stopName>Avenida del Perú  2</stopName>
+		<shapePtLat>38.873448</shapePtLat>
+		<shapePtLon>-6.982245</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>5,7,9,S1,5N,18N,9N</lineas>
+	</record>
+	<record>
+		<stopCode>108</stopCode>
+		<stopName>Avenida del Perú  21</stopName>
+		<shapePtLat>38.873059</shapePtLat>
+		<shapePtLon>-6.986541</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>7,5N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>114</stopCode>
+		<stopName>Av. Sinforiano Madroñero  7</stopName>
+		<shapePtLat>38.870580</shapePtLat>
+		<shapePtLon>-6.989023</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>5,7,9,C1,5N,6N,7N,18N,9N</lineas>
+	</record>
+	<record>
+		<stopCode>115</stopCode>
+		<stopName>Av. Sinforiano Madroñero  21</stopName>
+		<shapePtLat>38.868160</shapePtLat>
+		<shapePtLon>-6.987424</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>5,C1,12,5N,6N</lineas>
+	</record>
+	<record>
+		<stopCode>97</stopCode>
+		<stopName>Calle Godofredo Ortega Y Munoz  31</stopName>
+		<shapePtLat>38.865521</shapePtLat>
+		<shapePtLon>-6.987978</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>5,M1,5N</lineas>
+	</record>
+	<record>
+		<stopCode>98</stopCode>
+		<stopName>Calle Arturo Barea  7</stopName>
+		<shapePtLat>38.863119</shapePtLat>
+		<shapePtLon>-6.986146</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>5,M1,5N</lineas>
+	</record>
+	<record>
+		<stopCode>99</stopCode>
+		<stopName>Calle Arce  4</stopName>
+		<shapePtLat>38.858398</shapePtLat>
+		<shapePtLon>-6.989387</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>5,M1,5N</lineas>
+	</record>
+	<record>
+		<stopCode>100</stopCode>
+		<stopName>Calle Tilo  18</stopName>
+		<shapePtLat>38.856455</shapePtLat>
+		<shapePtLon>-6.989933</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>5,M1,5N</lineas>
+	</record>
+	<record>
+		<stopCode>101</stopCode>
+		<stopName>Calle Tilo</stopName>
+		<shapePtLat>38.857438</shapePtLat>
+		<shapePtLon>-6.988715</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>5,M1,5N</lineas>
+	</record>
+	<record>
+		<stopCode>122</stopCode>
+		<stopName>Av. Sinforiano Madroñero  4</stopName>
+		<shapePtLat>38.866240</shapePtLat>
+		<shapePtLon>-6.984723</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>5,C2,12,M1,5N,6N</lineas>
+	</record>
+	<record>
+		<stopCode>123</stopCode>
+		<stopName>Av. Sinforiano Madroñero  18</stopName>
+		<shapePtLat>38.868280</shapePtLat>
+		<shapePtLon>-6.987192</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>5,C2,12,5N,6N</lineas>
+	</record>
+	<record>
+		<stopCode>113</stopCode>
+		<stopName>Av. Sinforiano Madroñero  6</stopName>
+		<shapePtLat>38.870686</shapePtLat>
+		<shapePtLon>-6.988879</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>5,7,9,C2,5N,6N,7N,18N,9N</lineas>
+	</record>
+	<record>
+		<stopCode>110</stopCode>
+		<stopName>Avenida del Perú  24</stopName>
+		<shapePtLat>38.873026</shapePtLat>
+		<shapePtLon>-6.986568</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>7,5N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>125</stopCode>
+		<stopName>Avenida del Perú  5</stopName>
+		<shapePtLat>38.873382</shapePtLat>
+		<shapePtLon>-6.982148</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>5,7,9,S1,5N,18N,9N</lineas>
+	</record>
+	<record>
+		<stopCode>2</stopCode>
+		<stopName>Av. de Cristobal Colón  15</stopName>
+		<shapePtLat>38.873579</shapePtLat>
+		<shapePtLon>-6.980034</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>5,7,9,S1,5N,18N,9N</lineas>
+	</record>
+	<record>
+		<stopCode>210</stopCode>
+		<stopName>Av. de Cristobal Colón  11</stopName>
+		<shapePtLat>38.875427</shapePtLat>
+		<shapePtLon>-6.977506</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>3,5,7,9,S1,5N,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>211</stopCode>
+		<stopName>Plaza La Libertad (Tubasa)</stopName>
+		<shapePtLat>38.875414</shapePtLat>
+		<shapePtLon>-6.974404</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>3,5,6,7,9,18,S2,11,13,CM,5N,6N,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>248</stopCode>
+		<stopName>Calle Enrique Segura Otaño  3</stopName>
+		<shapePtLat>38.873182</shapePtLat>
+		<shapePtLon>-6.974466</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>2,3,5,6,7,9,18,21,11,13,M3,M4,CM,5N,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>236</stopCode>
+		<stopName>Av. de Fernando Calzadilla  16</stopName>
+		<shapePtLat>38.869780</shapePtLat>
+		<shapePtLon>-6.973076</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>3,4,5,6,9,S2,11,13,12,M1,CM,5N</lineas>
+	</record>
+	<record>
+		<stopCode>243</stopCode>
+		<stopName>Av. Juan Sebastián Elcano  10</stopName>
+		<shapePtLat>38.869092</shapePtLat>
+		<shapePtLon>-6.971270</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>5,S2,5N</lineas>
+	</record>
+	<record>
+		<stopCode>244</stopCode>
+		<stopName>Av. Juan Sebastián Elcano  66</stopName>
+		<shapePtLat>38.870429</shapePtLat>
+		<shapePtLon>-6.967054</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>5,S2,5N</lineas>
+	</record>
+	<record>
+		<stopCode>245</stopCode>
+		<stopName>Av. Juan Sebastián Elcano  56</stopName>
+		<shapePtLat>38.871540</shapePtLat>
+		<shapePtLon>-6.963990</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>5,S2,5N</lineas>
+	</record>
+	<record>
+		<stopCode>192</stopCode>
+		<stopName>Calle Santo Cristo de La Paz  96</stopName>
+		<shapePtLat>38.872358</shapePtLat>
+		<shapePtLon>-6.959987</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>5,S2,5N</lineas>
+	</record>
+	<record>
+		<stopCode>221</stopCode>
+		<stopName>Av. Luis de Góngora 1</stopName>
+		<shapePtLat>38.867624</shapePtLat>
+		<shapePtLon>-6.958747</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>C2,S1,5N</lineas>
+	</record>
+	<record>
+		<stopCode>222</stopCode>
+		<stopName>Av. Luis de Góngora 2</stopName>
+		<shapePtLat>38.866651</shapePtLat>
+		<shapePtLon>-6.961248</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>C2,S1,5N</lineas>
+	</record>
+</records>

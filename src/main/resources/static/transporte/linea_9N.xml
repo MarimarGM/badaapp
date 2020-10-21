@@ -1,0 +1,171 @@
+<?xml version="1.0" standalone="yes"?>
+<records>
+	<record>
+		<stopCode>202</stopCode>
+		<stopName>Plaza de La Libertad</stopName>
+		<shapePtLat>38.875516</shapePtLat>
+		<shapePtLon>-6.974570</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>3,5,6,7,9,18,S1,S2,11,13,CA,CM,5N,6N,7N,18N,9N</lineas>
+	</record>
+	<record>
+		<stopCode>207</stopCode>
+		<stopName>Av. de Cristobal Colón  10</stopName>
+		<shapePtLat>38.875846</shapePtLat>
+		<shapePtLon>-6.977402</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>3,5,7,9,S1,5N,7N,18N,9N</lineas>
+	</record>
+	<record>
+		<stopCode>1</stopCode>
+		<stopName>Av. de Cristobal Colón  27</stopName>
+		<shapePtLat>38.873696</shapePtLat>
+		<shapePtLon>-6.980181</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>3,5,7,9,S1,5N,7N,18N,9N</lineas>
+	</record>
+	<record>
+		<stopCode>124</stopCode>
+		<stopName>Avenida del Perú  2</stopName>
+		<shapePtLat>38.873448</shapePtLat>
+		<shapePtLon>-6.982245</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>5,7,9,S1,5N,18N,9N</lineas>
+	</record>
+	<record>
+		<stopCode>111</stopCode>
+		<stopName>Av. Tomás Romero de Castilla  7</stopName>
+		<shapePtLat>38.872081</shapePtLat>
+		<shapePtLon>-6.983534</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>9,S1,9N</lineas>
+	</record>
+	<record>
+		<stopCode>112</stopCode>
+		<stopName>Av. Jose María Alcaraz Y Alenda  10</stopName>
+		<shapePtLat>38.870442</shapePtLat>
+		<shapePtLon>-6.985162</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>9,9N</lineas>
+	</record>
+	<record>
+		<stopCode>113</stopCode>
+		<stopName>Av. Sinforiano Madroñero  6</stopName>
+		<shapePtLat>38.870686</shapePtLat>
+		<shapePtLon>-6.988879</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>5,7,9,C2,5N,6N,7N,18N,9N</lineas>
+	</record>
+	<record>
+		<stopCode>67</stopCode>
+		<stopName>Av. de Elvas  9</stopName>
+		<shapePtLat>38.882681</shapePtLat>
+		<shapePtLon>-6.999851</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>3,9,18,9N</lineas>
+	</record>
+	<record>
+		<stopCode>74</stopCode>
+		<stopName>Av. de Elvas  7</stopName>
+		<shapePtLat>38.882052</shapePtLat>
+		<shapePtLon>-7.015659</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>9,18,9N</lineas>
+	</record>
+	<record>
+		<stopCode>75</stopCode>
+		<stopName>Av. de Elvas  6</stopName>
+		<shapePtLat>38.882388</shapePtLat>
+		<shapePtLon>-7.018558</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>9,18,9N</lineas>
+	</record>
+	<record>
+		<stopCode>76</stopCode>
+		<stopName>Av. de Elvas  (El Faro)</stopName>
+		<shapePtLat>38.882888</shapePtLat>
+		<shapePtLon>-7.022436</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>9,18,9N</lineas>
+	</record>
+	<record>
+		<stopCode>77</stopCode>
+		<stopName>Avenida Elvas  51</stopName>
+		<shapePtLat>38.883179</shapePtLat>
+		<shapePtLon>-7.025720</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>9N</lineas>
+	</record>
+	<record>
+		<stopCode>80</stopCode>
+		<stopName>Av. de Elvas  13</stopName>
+		<shapePtLat>38.881662</shapePtLat>
+		<shapePtLon>-7.013783</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>9,18,9N</lineas>
+	</record>
+	<record>
+		<stopCode>114</stopCode>
+		<stopName>Av. Sinforiano Madroñero  7</stopName>
+		<shapePtLat>38.870580</shapePtLat>
+		<shapePtLon>-6.989023</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>5,7,9,C1,5N,6N,7N,18N,9N</lineas>
+	</record>
+	<record>
+		<stopCode>102</stopCode>
+		<stopName>Av. Jose María Alcaraz Y Alenda  11</stopName>
+		<shapePtLat>38.870274</shapePtLat>
+		<shapePtLon>-6.985196</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>9,9N</lineas>
+	</record>
+	<record>
+		<stopCode>103</stopCode>
+		<stopName>Av. Tomás Romero de Castilla  12</stopName>
+		<shapePtLat>38.871912</shapePtLat>
+		<shapePtLon>-6.983318</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>9,S1,9N</lineas>
+	</record>
+	<record>
+		<stopCode>125</stopCode>
+		<stopName>Avenida del Perú  5</stopName>
+		<shapePtLat>38.873382</shapePtLat>
+		<shapePtLon>-6.982148</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>5,7,9,S1,5N,18N,9N</lineas>
+	</record>
+	<record>
+		<stopCode>2</stopCode>
+		<stopName>Av. de Cristobal Colón  15</stopName>
+		<shapePtLat>38.873579</shapePtLat>
+		<shapePtLon>-6.980034</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>5,7,9,S1,5N,18N,9N</lineas>
+	</record>
+	<record>
+		<stopCode>228</stopCode>
+		<stopName>Av. Santa Marina  19</stopName>
+		<shapePtLat>38.874613</shapePtLat>
+		<shapePtLon>-6.978205</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>2,21,9N</lineas>
+	</record>
+	<record>
+		<stopCode>229</stopCode>
+		<stopName>Av. Santa Marina  11</stopName>
+		<shapePtLat>38.873777</shapePtLat>
+		<shapePtLon>-6.976385</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>2,21,9N</lineas>
+	</record>
+	<record>
+		<stopCode>217</stopCode>
+		<stopName>Av. de Huelva  5</stopName>
+		<shapePtLat>38.873487</shapePtLat>
+		<shapePtLon>-6.974836</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>6,S2,11,13,6N,9N</lineas>
+	</record>
+</records>

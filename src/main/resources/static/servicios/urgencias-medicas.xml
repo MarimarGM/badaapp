@@ -1,0 +1,93 @@
+<?xml version="1.0" standalone="yes"?>
+<urgencias>
+	<centro>
+		<nombre>Urgencias Atención Primaria PUAC</nombre>
+		<direccion>Sergio Luna Gomez, S/N</direccion>
+		<telefono>924215087</telefono>
+		<horario>24h</horario>
+	</centro>
+	<centro>
+		<nombre>Urgencias Hospital Universitario Badajoz</nombre>
+		<direccion>Av. de Elvas, s/n</direccion>
+		<telefono>924218100</telefono>
+		<horario>24h</horario>
+	</centro>
+	<centro>
+		<nombre>Urgencias Hospital Perpetuo Socorro</nombre>
+		<direccion>Av. Damián Téllez Lafuente, S/N</direccion>
+		<telefono>924218100</telefono>
+		<horario>24h</horario>
+	</centro>
+	<centro>
+		<nombre>Urgencias Hospital Quirónsalud Clideba</nombre>
+		<direccion>Calle Eladio Salinero de los Santos, 6</direccion>
+		<telefono>924229050</telefono>
+		<horario>24h</horario>
+	</centro>
+	<centro>
+		<nombre>Urgencias Hospital Materno Infantil</nombre>
+		<direccion>Calle la Violeta, 3</direccion>
+		<telefono>924215000</telefono>
+		<horario>24h</horario>
+	</centro>
+	<centro>
+		<nombre>Los Ángeles Servicio Médico De Urgencias</nombre>
+		<direccion>Ronda del Pilar, 2</direccion>
+		<telefono>924242425</telefono>
+		<horario>24h</horario>
+	</centro>
+	<centro>
+		<nombre>Centro de Salud Zona Centro</nombre>
+		<direccion>Ronda del Pilar, 22</direccion>
+		<telefono>924487272</telefono>
+		<horario>9-15h</horario>
+	</centro>
+	<centro>
+		<nombre>Centro de Salud la Paz</nombre>
+		<direccion>C/ República Dominicana, s/n</direccion>
+		<telefono>924233100</telefono>
+		<horario>9-15h</horario>
+	</centro>
+	<centro>
+		<nombre>Centro de Salud Valdepasillas</nombre>
+		<direccion>Calle de Jaime Montero de Espinosa</direccion>
+		<telefono>924218000</telefono>
+		<horario>9-15h</horario>
+	</centro>
+	<centro>
+		<nombre>Centro de Salud San Roque</nombre>
+		<direccion>Calle Teresa Istúriz, SN</direccion>
+		<telefono>924246500</telefono>
+		<horario>9-15h</horario>
+	</centro>
+	<centro>
+		<nombre>Centro de Salud El Progreso</nombre>
+		<direccion>Calle Serena, 0</direccion>
+		<telefono>924277445</telefono>
+		<horario>9-15h</horario>
+	</centro>
+	<centro>
+		<nombre>Centro de Salud Ciudad Jardin</nombre>
+		<direccion>Calle Retama, S/N</direccion>
+		<telefono>902134578</telefono>
+		<horario>9-15h</horario>
+	</centro>
+	<centro>
+		<nombre>Centro de Salud de San Fernando</nombre>
+		<direccion>Calle Antonio Machado, 0</direccion>
+		<telefono>924274900</telefono>
+		<horario>9-15h</horario>
+	</centro>
+	<centro>
+		<nombre>Centro Médico Adeslas</nombre>
+		<direccion>Calle Díaz Brito, 8</direccion>
+		<telefono>924229271</telefono>
+		<horario>9-15h</horario>
+	</centro>
+	<centro>
+		<nombre>Clínica Extremeña de Salud</nombre>
+		<direccion>Calle Federico Mayor Zaragoza, S/N</direccion>
+		<telefono>924211818</telefono>
+		<horario>9-15h</horario>
+	</centro>
+</urgencias>

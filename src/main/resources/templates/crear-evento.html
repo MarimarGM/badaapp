@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+
+<head th:replace="layouts/head::head"></head>
+
+<body>
+
+<!-- cabecera -->
+<header th:insert="layouts/header::header"></header>
+
+<div class="container">
+    <!--tabla para mostrar los datos-->
+    <div class="row justify-content-md-center">
+
+        <table class="table">
+            <thead>
+            <tr>
+                <th scope="col">id</th>
+                <th scope="col">titulo</th>
+                <th scope="col">#</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr th:each="evento: ${eventos}">
+                <td><span th:text="${evento.id}"></span></td>
+                <td><span th:text="${evento.titulo}"></span></td>
+
+                <td>
+                    <a th:href="@{'/admin/borrarEvento/' + ${evento.id}}">Borrar</a>
+                     -
+                    <a th:href="@{'/admin/editarEvento/' + ${evento.id}}">Editar</a>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+        <!--Paginación-->
+        <nav aria-label="Page navigation example">
+            <ul class="pagination">
+
+                <li class="page-item" th:if="${pagina != 0}">
+                    <a class="page-link" th:href="@{'/admin/crear-evento.html?pagina=' + ${pagina - 1} + '&total=' + ${total}}" aria-label="Previous">
+                        <span aria-hidden="true">&laquo;</span>
+                        <span class="sr-only">Anterior</span>
+                    </a>
+                </li>
+
+                <li class="page-item">
+                    <a class="page-link" th:href="@{'/admin/crear-evento.html?pagina=' + ${pagina + 1} + '&total=' + ${total}}" aria-label="Next">
+                        <span aria-hidden="true">&raquo;</span>
+                        <span class="sr-only">Siguiente</span>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+
+    </div>
+
+    <hr />
+
+
+    <form class="form-signin" method="post" name="crear" action="/admin/crearEventoAction">
+        <div class="form-group row">
+            <label for="tituloId" class="col-sm-2 col-form-label">Título</label>
+            <div class="col-sm-10">
+                <input type="text" name="titulo" class="form-control" required id="tituloId">
+            </div>
+
+            <br />
+            <br />
+
+            <label for="desc" class="col-sm-2 col-form-label">Descripción</label>
+            <div class="col-sm-10">
+                <textarea name="descripcion" class="form-control" required id="desc"></textarea>
+            </div>
+
+            <br />
+            <br />
+            <br />
+
+            <label for="fechaDesde" class="col-sm-2 col-form-label">Fecha Desde</label>
+            <div class="col-sm-10">
+                <input type="datetime-local" name="fechaDesde" required class="form-control" id="fechaDesde" />
+            </div>
+
+            <br />
+            <br />
+
+            <label for="fechaHasta" class="col-sm-2 col-form-label">Fecha Hasta</label>
+            <div class="col-sm-10">
+                <input type="datetime-local" name="fechaHasta" required class="form-control" id="fechaHasta" />
+            </div>
+
+            <br />
+            <br />
+
+            <label for="selectBarrio" class="col-sm-2 col-form-label">Barrio</label>
+            <div class="col-sm-10">
+                <select class="form-control" id="selectBarrio" required name="barriosId">
+                    <option></option>
+                    <option th:each="barrio: ${barrios}" th:value="${barrio.id}">
+                        <span th:text="${barrio.nombre}"></span>
+                    </option>
+                </select>
+            </div>
+
+            <br />
+            <br />
+
+            <label for="selectLocalidad" class="col-sm-2 col-form-label">Localidad</label>
+            <div class="col-sm-10">
+                <select class="form-control" id="selectLocalidad" required name="localidadesId">
+                    <option></option>
+                    <option th:each="localidad: ${localidades}" th:value="${localidad.id}">
+                        <span th:text="${localidad.nombre}"></span>
+                    </option>
+                </select>
+            </div>
+
+            <br />
+            <br />
+
+        </div>
+        <button class="btn btn-primary" type="submit">Crear</button>
+    </form>
+
+</div>
+
+<style>
+    .container { margin-top: 80px; }
+</style>
+
+</body>
+</html>

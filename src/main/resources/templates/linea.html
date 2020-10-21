@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head th:replace="layouts/head::head"></head>
+
+<body>
+<!-- cabecera -->
+<header th:insert="layouts/header::header"></header>
+
+<main role="main" class="container">
+    <div class="row">
+        <div class="col-md-12 blog-main">
+
+            <div class="blog-post" th:each="linea: ${lineas.record}">
+                <h3 class="blog-post-title" th:text="'Nº de parada: ' + ${linea.stopCode}"></h3>
+                <h6>Parada:</h6>
+                <p th:text="${linea.stopName}"></p>
+                <h6>Comunica con lineas:</h6>
+                <p th:text="${linea.lineas}"></p>
+
+                <hr>
+            </div>
+        </div>
+    </div>
+</main>
+<!-- Footer -->
+<div th:insert="layouts/footer::footer"></div>
+<!-- Footer -->
+<style>
+    .container {
+        margin-top: 80px;
+    }
+
+</style>
+</body>
+</html>

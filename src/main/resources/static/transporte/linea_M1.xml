@@ -1,0 +1,283 @@
+<?xml version="1.0" standalone="yes"?>
+<records>
+	<record>
+		<stopCode>100</stopCode>
+		<stopName>Calle Tilo  18</stopName>
+		<shapePtLat>38.856455</shapePtLat>
+		<shapePtLon>-6.989933</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>5,M1,5N</lineas>
+	</record>
+	<record>
+		<stopCode>101</stopCode>
+		<stopName>Calle Tilo</stopName>
+		<shapePtLat>38.857438</shapePtLat>
+		<shapePtLon>-6.988715</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>5,M1,5N</lineas>
+	</record>
+	<record>
+		<stopCode>116</stopCode>
+		<stopName>Av. Sinforiano Madroñero  5</stopName>
+		<shapePtLat>38.865675</shapePtLat>
+		<shapePtLon>-6.984004</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>C1,12,M1,6N</lineas>
+	</record>
+	<record>
+		<stopCode>254</stopCode>
+		<stopName>Paseo Condes de Barcelona  4</stopName>
+		<shapePtLat>38.866603</shapePtLat>
+		<shapePtLon>-6.980717</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>12,M1,M3</lineas>
+	</record>
+	<record>
+		<stopCode>255</stopCode>
+		<stopName>Paseo Condes de Barcelona  16</stopName>
+		<shapePtLat>38.865609</shapePtLat>
+		<shapePtLon>-6.978872</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>12,M1,M3</lineas>
+	</record>
+	<record>
+		<stopCode>154</stopCode>
+		<stopName>Plaza Hermanos Mediero Encinas  15</stopName>
+		<shapePtLat>38.864386</shapePtLat>
+		<shapePtLon>-6.976960</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>4,12,M1,M3</lineas>
+	</record>
+	<record>
+		<stopCode>260</stopCode>
+		<stopName>Av. Damián Téllez Lafuente  48</stopName>
+		<shapePtLat>38.862981</shapePtLat>
+		<shapePtLon>-6.972295</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>12,M1</lineas>
+	</record>
+	<record>
+		<stopCode>147</stopCode>
+		<stopName>Av. Damián Téllez Lafuente  27</stopName>
+		<shapePtLat>38.864882</shapePtLat>
+		<shapePtLon>-6.972590</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>6,9,S1,12,M1,CM,6N</lineas>
+	</record>
+	<record>
+		<stopCode>148</stopCode>
+		<stopName>Av. Damián Téllez Lafuente  9</stopName>
+		<shapePtLat>38.868194</shapePtLat>
+		<shapePtLon>-6.973009</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>3,6,9,11,13,12,M1,CM,6N</lineas>
+	</record>
+	<record>
+		<stopCode>160</stopCode>
+		<stopName>Av. de Fernando Calzadilla  25</stopName>
+		<shapePtLat>38.869767</shapePtLat>
+		<shapePtLon>-6.972974</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>3,5,9,S2,12,M1,CM,5N</lineas>
+	</record>
+	<record>
+		<stopCode>213</stopCode>
+		<stopName>Av. Villanueva  24</stopName>
+		<shapePtLat>38.871647</shapePtLat>
+		<shapePtLon>-6.977598</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>2,21,M1,M3,6N</lineas>
+	</record>
+	<record>
+		<stopCode>224</stopCode>
+		<stopName>Av. Antonio Masa Campos 55</stopName>
+		<shapePtLat>38.871594</shapePtLat>
+		<shapePtLon>-6.979215</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>2,21,M1</lineas>
+	</record>
+	<record>
+		<stopCode>225</stopCode>
+		<stopName>Av. Antonio Masa Campos  7</stopName>
+		<shapePtLat>38.874501</shapePtLat>
+		<shapePtLon>-6.981098</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>2,3,21,M1,7N</lineas>
+	</record>
+	<record>
+		<stopCode>226</stopCode>
+		<stopName>Av. Antonio Masa Campos 1</stopName>
+		<shapePtLat>38.877052</shapePtLat>
+		<shapePtLon>-6.980761</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>2,3,21,M1,7N</lineas>
+	</record>
+	<record>
+		<stopCode>46</stopCode>
+		<stopName>Av. Augusto Vázquez  2</stopName>
+		<shapePtLat>38.884849</shapePtLat>
+		<shapePtLon>-6.984734</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>18,M1</lineas>
+	</record>
+	<record>
+		<stopCode>43</stopCode>
+		<stopName>Av. Augusto Vázquez  24</stopName>
+		<shapePtLat>38.888123</shapePtLat>
+		<shapePtLon>-6.985626</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>C1,M1</lineas>
+	</record>
+	<record>
+		<stopCode>21</stopCode>
+		<stopName>Av. Padre Tacoronte  51</stopName>
+		<shapePtLat>38.892916</shapePtLat>
+		<shapePtLon>-6.981201</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>2,6,C1,21,M1</lineas>
+	</record>
+	<record>
+		<stopCode>22</stopCode>
+		<stopName>Av. Padre Tacoronte  35</stopName>
+		<shapePtLat>38.891783</shapePtLat>
+		<shapePtLon>-6.979212</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>2,6,C1,21,M1</lineas>
+	</record>
+	<record>
+		<stopCode>23</stopCode>
+		<stopName>Av. Padre Tacoronte  5</stopName>
+		<shapePtLat>38.890109</shapePtLat>
+		<shapePtLon>-6.976438</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>2,6,C1,21,M1</lineas>
+	</record>
+	<record>
+		<stopCode>24</stopCode>
+		<stopName>Cardenal Cisneros  21</stopName>
+		<shapePtLat>38.887659</shapePtLat>
+		<shapePtLon>-6.978175</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>2,6,C1,21,M1</lineas>
+	</record>
+	<record>
+		<stopCode>25</stopCode>
+		<stopName>Argüello Carvajal Teologo Siglo XVII  28</stopName>
+		<shapePtLat>38.888690</shapePtLat>
+		<shapePtLon>-6.979542</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>2,C1,21,M1</lineas>
+	</record>
+	<record>
+		<stopCode>29</stopCode>
+		<stopName>Av. Augusto Vázquez  9</stopName>
+		<shapePtLat>38.887830</shapePtLat>
+		<shapePtLon>-6.985454</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>C2,M1</lineas>
+	</record>
+	<record>
+		<stopCode>44</stopCode>
+		<stopName>Av. Augusto Vázquez  22</stopName>
+		<shapePtLat>38.887437</shapePtLat>
+		<shapePtLon>-6.985552</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>18,M1</lineas>
+	</record>
+	<record>
+		<stopCode>45</stopCode>
+		<stopName>Av. Augusto Vázquez  4</stopName>
+		<shapePtLat>38.885020</shapePtLat>
+		<shapePtLon>-6.984919</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>18,M1</lineas>
+	</record>
+	<record>
+		<stopCode>216</stopCode>
+		<stopName>Av. Villanueva  9</stopName>
+		<shapePtLat>38.871045</shapePtLat>
+		<shapePtLon>-6.978046</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>6,11,13,M1,M3,6N</lineas>
+	</record>
+	<record>
+		<stopCode>236</stopCode>
+		<stopName>Av. de Fernando Calzadilla  16</stopName>
+		<shapePtLat>38.869780</shapePtLat>
+		<shapePtLon>-6.973076</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>3,4,5,6,9,S2,11,13,12,M1,CM,5N</lineas>
+	</record>
+	<record>
+		<stopCode>149</stopCode>
+		<stopName>Av. Damián Téllez Lafuente  11</stopName>
+		<shapePtLat>38.867921</shapePtLat>
+		<shapePtLon>-6.973194</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>3,4,6,9,11,13,12,M1,CM</lineas>
+	</record>
+	<record>
+		<stopCode>153</stopCode>
+		<stopName>Av. Damián Téllez Lafuente  30</stopName>
+		<shapePtLat>38.864525</shapePtLat>
+		<shapePtLon>-6.972846</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>3,6,9,C1,S1,M1,CM</lineas>
+	</record>
+	<record>
+		<stopCode>258</stopCode>
+		<stopName>Paseo Condes de Barcelona  19</stopName>
+		<shapePtLat>38.865433</shapePtLat>
+		<shapePtLon>-6.977552</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>12,M1,M3</lineas>
+	</record>
+	<record>
+		<stopCode>257</stopCode>
+		<stopName>Paseo Condes de Barcelona  9</stopName>
+		<shapePtLat>38.866586</shapePtLat>
+		<shapePtLon>-6.979709</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>12,M1,M3</lineas>
+	</record>
+	<record>
+		<stopCode>256</stopCode>
+		<stopName>Calle Jesús Rincón Jiménez  82</stopName>
+		<shapePtLat>38.865659</shapePtLat>
+		<shapePtLon>-6.980760</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>12,M1</lineas>
+	</record>
+	<record>
+		<stopCode>122</stopCode>
+		<stopName>Av. Sinforiano Madroñero  4</stopName>
+		<shapePtLat>38.866240</shapePtLat>
+		<shapePtLon>-6.984723</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>5,C2,12,M1,5N,6N</lineas>
+	</record>
+	<record>
+		<stopCode>97</stopCode>
+		<stopName>Calle Godofredo Ortega Y Munoz  31</stopName>
+		<shapePtLat>38.865521</shapePtLat>
+		<shapePtLon>-6.987978</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>5,M1,5N</lineas>
+	</record>
+	<record>
+		<stopCode>98</stopCode>
+		<stopName>Calle Arturo Barea  7</stopName>
+		<shapePtLat>38.863119</shapePtLat>
+		<shapePtLon>-6.986146</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>5,M1,5N</lineas>
+	</record>
+	<record>
+		<stopCode>99</stopCode>
+		<stopName>Calle Arce  4</stopName>
+		<shapePtLat>38.858398</shapePtLat>
+		<shapePtLon>-6.989387</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>5,M1,5N</lineas>
+	</record>
+</records>

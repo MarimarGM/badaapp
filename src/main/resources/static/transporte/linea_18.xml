@@ -1,0 +1,555 @@
+<?xml version="1.0" standalone="yes"?>
+<records>
+	<record>
+		<stopCode>230</stopCode>
+		<stopName>Lady Smith  23</stopName>
+		<shapePtLat>38.889041</shapePtLat>
+		<shapePtLon>-6.900652</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>18,12,18N</lineas>
+	</record>
+	<record>
+		<stopCode>234</stopCode>
+		<stopName>Lady Smith  7</stopName>
+		<shapePtLat>38.889683</shapePtLat>
+		<shapePtLon>-6.904467</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>18,12,18N</lineas>
+	</record>
+	<record>
+		<stopCode>172</stopCode>
+		<stopName>Avda. José Caldito Ruiz</stopName>
+		<shapePtLat>38.880537</shapePtLat>
+		<shapePtLon>-6.945366</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>18,12</lineas>
+	</record>
+	<record>
+		<stopCode>173</stopCode>
+		<stopName>Calle José Caldito Ruiz  3</stopName>
+		<shapePtLat>38.879866</shapePtLat>
+		<shapePtLon>-6.948882</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>18,12</lineas>
+	</record>
+	<record>
+		<stopCode>174</stopCode>
+		<stopName>Av. Ricardo Carapeto Zambrano</stopName>
+		<shapePtLat>38.878423</shapePtLat>
+		<shapePtLon>-6.950556</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>18,21,12,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>175</stopCode>
+		<stopName>Av. Ricardo Carapeto Zambrano 87</stopName>
+		<shapePtLat>38.878665</shapePtLat>
+		<shapePtLon>-6.953997</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>18,21,12,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>176</stopCode>
+		<stopName>Av. Ricardo Carapeto Zambrano  67</stopName>
+		<shapePtLat>38.878947</shapePtLat>
+		<shapePtLon>-6.956224</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>4,18,C1,21,12,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>177</stopCode>
+		<stopName>Av. Ricardo Carapeto Zambrano  35</stopName>
+		<shapePtLat>38.879199</shapePtLat>
+		<shapePtLon>-6.958875</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>4,18,C1,21,12,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>178</stopCode>
+		<stopName>Av. Ricardo Carapeto Zambrano  9</stopName>
+		<shapePtLat>38.879160</shapePtLat>
+		<shapePtLon>-6.961473</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>4,18,C1,21,12,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>197</stopCode>
+		<stopName>Ronda del Pilar  57</stopName>
+		<shapePtLat>38.876284</shapePtLat>
+		<shapePtLon>-6.966831</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>4,7,18,21,12,CA,M3,M4,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>198</stopCode>
+		<stopName>Ronda del Pilar  29</stopName>
+		<shapePtLat>38.875583</shapePtLat>
+		<shapePtLon>-6.969416</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>4,7,18,21,12,CA,M3,M4,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>199</stopCode>
+		<stopName>Ronda del Pilar</stopName>
+		<shapePtLat>38.875261</shapePtLat>
+		<shapePtLon>-6.971206</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>4,7,18,21,12,M3,M4,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>201</stopCode>
+		<stopName>Ronda del Pilar  4</stopName>
+		<shapePtLat>38.875217</shapePtLat>
+		<shapePtLon>-6.973151</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>2,5,18,21,CA,M3,M4</lineas>
+	</record>
+	<record>
+		<stopCode>202</stopCode>
+		<stopName>Plaza de La Libertad</stopName>
+		<shapePtLat>38.875516</shapePtLat>
+		<shapePtLon>-6.974570</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>3,5,6,7,9,18,S1,S2,11,13,CA,CM,5N,6N,7N,18N,9N</lineas>
+	</record>
+	<record>
+		<stopCode>203</stopCode>
+		<stopName>Av. Santiago Ramón Y Cajal  11</stopName>
+		<shapePtLat>38.876997</shapePtLat>
+		<shapePtLon>-6.976973</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>6,18,11,13,CA,6N</lineas>
+	</record>
+	<record>
+		<stopCode>204</stopCode>
+		<stopName>Plaza Reyes Católicos  7</stopName>
+		<shapePtLat>38.880489</shapePtLat>
+		<shapePtLon>-6.975189</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>6,18,11,13,CA,6N</lineas>
+	</record>
+	<record>
+		<stopCode>18</stopCode>
+		<stopName>Rotonda Ntra. Sra. de Botoa</stopName>
+		<shapePtLat>38.886437</shapePtLat>
+		<shapePtLon>-6.975600</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>18,C2,11,13,6N</lineas>
+	</record>
+	<record>
+		<stopCode>54</stopCode>
+		<stopName>Av. Carolina Coronado  4</stopName>
+		<shapePtLat>38.885818</shapePtLat>
+		<shapePtLon>-6.980111</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>2,18,21,6N</lineas>
+	</record>
+	<record>
+		<stopCode>55</stopCode>
+		<stopName>Av. Carolina Coronado  16</stopName>
+		<shapePtLat>38.887696</shapePtLat>
+		<shapePtLon>-6.981797</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>2,18,21,6N</lineas>
+	</record>
+	<record>
+		<stopCode>26</stopCode>
+		<stopName>Av. Carolina Coronado EST. FF.CC.</stopName>
+		<shapePtLat>38.890253</shapePtLat>
+		<shapePtLon>-6.982364</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>2,18,C1,21,6N</lineas>
+	</record>
+	<record>
+		<stopCode>28</stopCode>
+		<stopName>Calle Valladolid  4</stopName>
+		<shapePtLat>38.888177</shapePtLat>
+		<shapePtLon>-6.983162</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>18,C1</lineas>
+	</record>
+	<record>
+		<stopCode>44</stopCode>
+		<stopName>Av. Augusto Vázquez  22</stopName>
+		<shapePtLat>38.887437</shapePtLat>
+		<shapePtLon>-6.985552</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>18,M1</lineas>
+	</record>
+	<record>
+		<stopCode>45</stopCode>
+		<stopName>Av. Augusto Vázquez  4</stopName>
+		<shapePtLat>38.885020</shapePtLat>
+		<shapePtLon>-6.984919</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>18,M1</lineas>
+	</record>
+	<record>
+		<stopCode>64</stopCode>
+		<stopName>Av. Adolfo Díaz Ambrona</stopName>
+		<shapePtLat>38.883968</shapePtLat>
+		<shapePtLon>-6.985939</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>3,18,7N</lineas>
+	</record>
+	<record>
+		<stopCode>65</stopCode>
+		<stopName>Av. Adolfo Díaz Ambrona  32</stopName>
+		<shapePtLat>38.883604</shapePtLat>
+		<shapePtLon>-6.989864</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>3,18,7N</lineas>
+	</record>
+	<record>
+		<stopCode>66</stopCode>
+		<stopName>Av. de Elvas  57</stopName>
+		<shapePtLat>38.883221</shapePtLat>
+		<shapePtLon>-6.994348</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>3,18,7N</lineas>
+	</record>
+	<record>
+		<stopCode>67</stopCode>
+		<stopName>Av. de Elvas  9</stopName>
+		<shapePtLat>38.882681</shapePtLat>
+		<shapePtLon>-6.999851</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>3,9,18,9N</lineas>
+	</record>
+	<record>
+		<stopCode>86</stopCode>
+		<stopName>Avenida de La Biología</stopName>
+		<shapePtLat>38.882358</shapePtLat>
+		<shapePtLon>-7.008176</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>3,9,18</lineas>
+	</record>
+	<record>
+		<stopCode>74</stopCode>
+		<stopName>Av. de Elvas  7</stopName>
+		<shapePtLat>38.882052</shapePtLat>
+		<shapePtLon>-7.015659</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>9,18,9N</lineas>
+	</record>
+	<record>
+		<stopCode>75</stopCode>
+		<stopName>Av. de Elvas  6</stopName>
+		<shapePtLat>38.882388</shapePtLat>
+		<shapePtLon>-7.018558</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>9,18,9N</lineas>
+	</record>
+	<record>
+		<stopCode>76</stopCode>
+		<stopName>Av. de Elvas  (El Faro)</stopName>
+		<shapePtLat>38.882888</shapePtLat>
+		<shapePtLon>-7.022436</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>9,18,9N</lineas>
+	</record>
+	<record>
+		<stopCode>80</stopCode>
+		<stopName>Av. de Elvas  13</stopName>
+		<shapePtLat>38.881662</shapePtLat>
+		<shapePtLon>-7.013783</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>9,18,9N</lineas>
+	</record>
+	<record>
+		<stopCode>81</stopCode>
+		<stopName>Av. de La Física</stopName>
+		<shapePtLat>38.884699</shapePtLat>
+		<shapePtLon>-7.010806</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>3,9,18</lineas>
+	</record>
+	<record>
+		<stopCode>82</stopCode>
+		<stopName>Av. de La Investigación 1</stopName>
+		<shapePtLat>38.885465</shapePtLat>
+		<shapePtLon>-7.008644</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>3,9,18</lineas>
+	</record>
+	<record>
+		<stopCode>83</stopCode>
+		<stopName>Av. de La Investigación 2</stopName>
+		<shapePtLat>38.885729</shapePtLat>
+		<shapePtLon>-7.006573</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>3,9,18</lineas>
+	</record>
+	<record>
+		<stopCode>84</stopCode>
+		<stopName>Av. de La Investigación 3</stopName>
+		<shapePtLat>38.886107</shapePtLat>
+		<shapePtLon>-7.003497</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>3,9,18</lineas>
+	</record>
+	<record>
+		<stopCode>71</stopCode>
+		<stopName>Facultad de Medicina</stopName>
+		<shapePtLat>38.886430</shapePtLat>
+		<shapePtLon>-7.000465</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>3,9,18,C1</lineas>
+	</record>
+	<record>
+		<stopCode>36</stopCode>
+		<stopName>Calle Federico Mayor Zaragoza </stopName>
+		<shapePtLat>38.886518</shapePtLat>
+		<shapePtLon>-6.998433</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>3,9,18</lineas>
+	</record>
+	<record>
+		<stopCode>37</stopCode>
+		<stopName>Calle Federico Mayor Zaragoza  181</stopName>
+		<shapePtLat>38.884018</shapePtLat>
+		<shapePtLon>-6.998083</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>3,9,18</lineas>
+	</record>
+	<record>
+		<stopCode>87</stopCode>
+		<stopName>Av. de Elvas  53</stopName>
+		<shapePtLat>38.882938</shapePtLat>
+		<shapePtLon>-6.995024</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>3,18,7N</lineas>
+	</record>
+	<record>
+		<stopCode>88</stopCode>
+		<stopName>Av. Adolfo Díaz Ambrona</stopName>
+		<shapePtLat>38.883521</shapePtLat>
+		<shapePtLon>-6.989440</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>3,18,7N</lineas>
+	</record>
+	<record>
+		<stopCode>89</stopCode>
+		<stopName>Av. Adolfo Díaz Ambrona  20</stopName>
+		<shapePtLat>38.883834</shapePtLat>
+		<shapePtLon>-6.986299</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>3,18,7N</lineas>
+	</record>
+	<record>
+		<stopCode>46</stopCode>
+		<stopName>Av. Augusto Vázquez  2</stopName>
+		<shapePtLat>38.884849</shapePtLat>
+		<shapePtLon>-6.984734</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>18,M1</lineas>
+	</record>
+	<record>
+		<stopCode>47</stopCode>
+		<stopName>Av. Augusto Vázquez  23</stopName>
+		<shapePtLat>38.887454</shapePtLat>
+		<shapePtLon>-6.985473</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>18</lineas>
+	</record>
+	<record>
+		<stopCode>48</stopCode>
+		<stopName>Av. Augusto Vázquez  3</stopName>
+		<shapePtLat>38.888358</shapePtLat>
+		<shapePtLon>-6.984333</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>18,C2</lineas>
+	</record>
+	<record>
+		<stopCode>27</stopCode>
+		<stopName>Av. Carolina Coronado  318</stopName>
+		<shapePtLat>38.888609</shapePtLat>
+		<shapePtLon>-6.982694</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>18</lineas>
+	</record>
+	<record>
+		<stopCode>49</stopCode>
+		<stopName>Av. Carolina Coronado  52</stopName>
+		<shapePtLat>38.887640</shapePtLat>
+		<shapePtLon>-6.981943</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>2,18,21,6N</lineas>
+	</record>
+	<record>
+		<stopCode>51</stopCode>
+		<stopName>Av. Carolina Coronado  74</stopName>
+		<shapePtLat>38.885823</shapePtLat>
+		<shapePtLon>-6.980387</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>2,6,18,21,6N</lineas>
+	</record>
+	<record>
+		<stopCode>19</stopCode>
+		<stopName>Calle Ntra. Sra. de Bótoa  20</stopName>
+		<shapePtLat>38.885396</shapePtLat>
+		<shapePtLon>-6.977383</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>6,18,6N</lineas>
+	</record>
+	<record>
+		<stopCode>205</stopCode>
+		<stopName>Av. Santiago Ramón Y Cajal  9</stopName>
+		<shapePtLat>38.880056</shapePtLat>
+		<shapePtLon>-6.976227</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>6,18,11,13,CA,6N</lineas>
+	</record>
+	<record>
+		<stopCode>206</stopCode>
+		<stopName>Av. Santiago Ramón Y Cajal  4</stopName>
+		<shapePtLat>38.876940</shapePtLat>
+		<shapePtLon>-6.976973</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>6,18,11,13,6N</lineas>
+	</record>
+	<record>
+		<stopCode>211</stopCode>
+		<stopName>Plaza La Libertad (Tubasa)</stopName>
+		<shapePtLat>38.875414</shapePtLat>
+		<shapePtLon>-6.974404</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>3,5,6,7,9,18,S2,11,13,CM,5N,6N,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>212</stopCode>
+		<stopName>Av. de Huelva  10</stopName>
+		<shapePtLat>38.873730</shapePtLat>
+		<shapePtLon>-6.975032</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>2,18,21,S2,M3,M4,6N</lineas>
+	</record>
+	<record>
+		<stopCode>248</stopCode>
+		<stopName>Calle Enrique Segura Otaño  3</stopName>
+		<shapePtLat>38.873182</shapePtLat>
+		<shapePtLon>-6.974466</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>2,3,5,6,7,9,18,21,11,13,M3,M4,CM,5N,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>156</stopCode>
+		<stopName>Calle Enrique Segura Otaño  17</stopName>
+		<shapePtLat>38.873039</shapePtLat>
+		<shapePtLon>-6.971897</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>7,18,21,12,M3,M4,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>161</stopCode>
+		<stopName>Av. de Pardaleras  10</stopName>
+		<shapePtLat>38.873309</shapePtLat>
+		<shapePtLon>-6.970020</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>7,18,21,12,M3,M4,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>162</stopCode>
+		<stopName>Av. de Pardaleras  46</stopName>
+		<shapePtLat>38.874210</shapePtLat>
+		<shapePtLon>-6.966700</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>7,18,21,12,M3,M4,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>163</stopCode>
+		<stopName>Av. de Pardaleras</stopName>
+		<shapePtLat>38.874762</shapePtLat>
+		<shapePtLon>-6.964221</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>7,18,21,12,M3,M4,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>164</stopCode>
+		<stopName>Ronda del Pilar  93</stopName>
+		<shapePtLat>38.877147</shapePtLat>
+		<shapePtLon>-6.965054</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>7,18,21,12,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>165</stopCode>
+		<stopName>Av. Ricardo Carapeto Zambrano  18</stopName>
+		<shapePtLat>38.879177</shapePtLat>
+		<shapePtLon>-6.961171</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>18,C2,21,12,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>166</stopCode>
+		<stopName>Av. Ricardo Carapeto Zambrano  48</stopName>
+		<shapePtLat>38.879113</shapePtLat>
+		<shapePtLon>-6.958911</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>18,C2,21,12,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>167</stopCode>
+		<stopName>Av. Ricardo Carapeto Zambrano  65</stopName>
+		<shapePtLat>38.878919</shapePtLat>
+		<shapePtLon>-6.956484</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>18,C2,21,12,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>168</stopCode>
+		<stopName>Av. Ricardo Carapeto Zambrano  116</stopName>
+		<shapePtLat>38.878524</shapePtLat>
+		<shapePtLon>-6.953373</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>18,21,12,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>169</stopCode>
+		<stopName>Av. Ricardo Carapeto Zambrano  50</stopName>
+		<shapePtLat>38.878280</shapePtLat>
+		<shapePtLon>-6.950290</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>18,21,12,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>170</stopCode>
+		<stopName>Calle José Caldito Ruiz  1</stopName>
+		<shapePtLat>38.879867</shapePtLat>
+		<shapePtLon>-6.948357</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>18,12</lineas>
+	</record>
+	<record>
+		<stopCode>171</stopCode>
+		<stopName>Calle José Caldito Ruiz 2</stopName>
+		<shapePtLat>38.880439</shapePtLat>
+		<shapePtLon>-6.945323</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>18,12</lineas>
+	</record>
+	<record>
+		<stopCode>231</stopCode>
+		<stopName>La Pilara</stopName>
+		<shapePtLat>38.880033</shapePtLat>
+		<shapePtLon>-6.933817</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>18,M3</lineas>
+	</record>
+	<record>
+		<stopCode>232</stopCode>
+		<stopName>IES Nuestra Señora de Botoa</stopName>
+		<shapePtLat>38.886965</shapePtLat>
+		<shapePtLon>-6.925433</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>18,12</lineas>
+	</record>
+	<record>
+		<stopCode>233</stopCode>
+		<stopName>Av. de La Independencia  14</stopName>
+		<shapePtLat>38.888310</shapePtLat>
+		<shapePtLon>-6.903364</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>18,12,18N</lineas>
+	</record>
+</records>

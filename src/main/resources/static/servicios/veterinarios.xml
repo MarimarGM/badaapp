@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="yes"?>
+<veterinarios>
+	<veterinario>
+		<nombre>Clínica Veterinaria Amantea</nombre>
+		<direccion>Calle Vicente Delgado Algaba, 35</direccion>
+		<telefono>924249580</telefono>
+	</veterinario>
+	<veterinario>
+		<nombre>Centro Canino Badajoz Clinicas Veterinarias</nombre>
+		<direccion>Calle Vicente Marcelo Nessi, 53 Chalet</direccion>
+		<telefono>924245411</telefono>
+	</veterinario>
+	<veterinario>
+		<nombre>Clínica Veterinaria Antovet</nombre>
+		<direccion>Calle Gaspar Méndez (Bda. Valdepasillas), 1</direccion>
+		<telefono>924097755</telefono>
+	</veterinario>
+	<veterinario>
+		<nombre>Novavet Clínica Veterinaria</nombre>
+		<direccion>Calle Tomás Romero de Castilla, 8</direccion>
+		<telefono>924035428</telefono>
+	</veterinario>
+	<veterinario>
+		<nombre>Clínica Veterinaria Dr. Nieto</nombre>
+		<direccion>Calle Prim, 38 Bajo</direccion>
+		<telefono>616565341</telefono>
+	</veterinario>
+</veterinarios>

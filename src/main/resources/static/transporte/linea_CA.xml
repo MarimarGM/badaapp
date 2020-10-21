@@ -1,0 +1,203 @@
+<?xml version="1.0" standalone="yes"?>
+<records>
+	<record>
+		<stopCode>205</stopCode>
+		<stopName>Av. Santiago Ramón Y Cajal  9</stopName>
+		<shapePtLat>38.880056</shapePtLat>
+		<shapePtLon>-6.976227</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>6,18,11,13,CA,6N</lineas>
+	</record>
+	<record>
+		<stopCode>1821</stopCode>
+		<stopName>Parque Castelar</stopName>
+		<shapePtLat>38.878552</shapePtLat>
+		<shapePtLon>-6.976651</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>CA</lineas>
+	</record>
+	<record>
+		<stopCode>1822</stopCode>
+		<stopName>Plaza Santo Domingo</stopName>
+		<shapePtLat>38.877111</shapePtLat>
+		<shapePtLon>-6.975535</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>CA</lineas>
+	</record>
+	<record>
+		<stopCode>1823</stopCode>
+		<stopName>Alonso de Celada</stopName>
+		<shapePtLat>38.876042</shapePtLat>
+		<shapePtLon>-6.973711</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>CA</lineas>
+	</record>
+	<record>
+		<stopCode>200</stopCode>
+		<stopName>Calle Pedro de Valdivia  3</stopName>
+		<shapePtLat>38.875672</shapePtLat>
+		<shapePtLon>-6.972396</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>2,CA</lineas>
+	</record>
+	<record>
+		<stopCode>1824</stopCode>
+		<stopName>Plaza Minayo</stopName>
+		<shapePtLat>38.876480</shapePtLat>
+		<shapePtLon>-6.971855</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>CA</lineas>
+	</record>
+	<record>
+		<stopCode>1825</stopCode>
+		<stopName>Plaza España</stopName>
+		<shapePtLat>38.878017</shapePtLat>
+		<shapePtLon>-6.970047</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>CA</lineas>
+	</record>
+	<record>
+		<stopCode>1826</stopCode>
+		<stopName>Plaza Cervantes</stopName>
+		<shapePtLat>38.877800</shapePtLat>
+		<shapePtLon>-6.967108</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>CA</lineas>
+	</record>
+	<record>
+		<stopCode>1827</stopCode>
+		<stopName>Pza. 18 de Diciembre</stopName>
+		<shapePtLat>38.877700</shapePtLat>
+		<shapePtLon>-6.964511</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>CA</lineas>
+	</record>
+	<record>
+		<stopCode>197</stopCode>
+		<stopName>Ronda del Pilar  57</stopName>
+		<shapePtLat>38.876284</shapePtLat>
+		<shapePtLon>-6.966831</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>4,7,18,21,12,CA,M3,M4,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>198</stopCode>
+		<stopName>Ronda del Pilar  29</stopName>
+		<shapePtLat>38.875583</shapePtLat>
+		<shapePtLon>-6.969416</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>4,7,18,21,12,CA,M3,M4,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>1828</stopCode>
+		<stopName>C Zurbaran</stopName>
+		<shapePtLat>38.876067</shapePtLat>
+		<shapePtLon>-6.970589</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>CA</lineas>
+	</record>
+	<record>
+		<stopCode>235</stopCode>
+		<stopName>Plaza España  11</stopName>
+		<shapePtLat>38.878143</shapePtLat>
+		<shapePtLon>-6.970556</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>CA</lineas>
+	</record>
+	<record>
+		<stopCode>1830</stopCode>
+		<stopName>Pedro de Valdivia 1</stopName>
+		<shapePtLat>38.875624</shapePtLat>
+		<shapePtLon>-6.972494</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>CA</lineas>
+	</record>
+	<record>
+		<stopCode>201</stopCode>
+		<stopName>Ronda del Pilar  4</stopName>
+		<shapePtLat>38.875217</shapePtLat>
+		<shapePtLon>-6.973151</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>2,5,18,21,CA,M3,M4</lineas>
+	</record>
+	<record>
+		<stopCode>202</stopCode>
+		<stopName>Plaza de La Libertad</stopName>
+		<shapePtLat>38.875516</shapePtLat>
+		<shapePtLon>-6.974570</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>3,5,6,7,9,18,S1,S2,11,13,CA,CM,5N,6N,7N,18N,9N</lineas>
+	</record>
+	<record>
+		<stopCode>203</stopCode>
+		<stopName>Av. Santiago Ramón Y Cajal  11</stopName>
+		<shapePtLat>38.876997</shapePtLat>
+		<shapePtLon>-6.976973</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>6,18,11,13,CA,6N</lineas>
+	</record>
+	<record>
+		<stopCode>1831</stopCode>
+		<stopName>Puerta Palmas</stopName>
+		<shapePtLat>38.880189</shapePtLat>
+		<shapePtLon>-6.975036</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>CA</lineas>
+	</record>
+	<record>
+		<stopCode>1832</stopCode>
+		<stopName>Juaquin Costa</stopName>
+		<shapePtLat>38.881638</shapePtLat>
+		<shapePtLon>-6.973974</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>CA</lineas>
+	</record>
+	<record>
+		<stopCode>1833</stopCode>
+		<stopName>Plz San Jose</stopName>
+		<shapePtLat>38.881821</shapePtLat>
+		<shapePtLon>-6.969044</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>CA</lineas>
+	</record>
+	<record>
+		<stopCode>1834</stopCode>
+		<stopName>San Pedro De Alcantara</stopName>
+		<shapePtLat>38.881182</shapePtLat>
+		<shapePtLon>-6.970010</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>CA</lineas>
+	</record>
+	<record>
+		<stopCode>1835</stopCode>
+		<stopName>Plaza La Soledad</stopName>
+		<shapePtLat>38.880731</shapePtLat>
+		<shapePtLon>-6.970707</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>CA</lineas>
+	</record>
+	<record>
+		<stopCode>1836</stopCode>
+		<stopName>Jose Lanot</stopName>
+		<shapePtLat>38.881212</shapePtLat>
+		<shapePtLon>-6.971598</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>CA</lineas>
+	</record>
+	<record>
+		<stopCode>1837</stopCode>
+		<stopName>Joaquin Costa 1</stopName>
+		<shapePtLat>38.882089</shapePtLat>
+		<shapePtLon>-6.973738</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>CA</lineas>
+	</record>
+	<record>
+		<stopCode>204</stopCode>
+		<stopName>Plaza Reyes Católicos  7</stopName>
+		<shapePtLat>38.880489</shapePtLat>
+		<shapePtLon>-6.975189</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>6,18,11,13,CA,6N</lineas>
+	</record>
+</records>

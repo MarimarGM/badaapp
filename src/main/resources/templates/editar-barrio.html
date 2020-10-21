@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+
+<head th:replace="layouts/head::head"></head>
+
+<body>
+
+<!-- cabecera -->
+<header th:insert="layouts/header::header"></header>
+
+<div class="container">
+
+    <form class="form-signin" method="post" name="crear" th:action="'/admin/editarBarrioAction/' + ${barrio.id}">
+        <div class="form-group row">
+            <label for="nombre1" class="col-sm-2 col-form-label">Nombre</label>
+            <div class="col-sm-10">
+                <input type="text" name="nombre" th:value="${barrio.nombre}" class="form-control" id="nombre1">
+            </div>
+        </div>
+        <button class="btn btn-primary" type="submit">Editar</button>
+    </form>
+
+</div>
+<style>
+    .container { margin-top: 80px; }
+
+</style>
+</body>
+</html>

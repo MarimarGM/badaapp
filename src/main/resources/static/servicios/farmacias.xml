@@ -1,0 +1,129 @@
+<?xml version="1.0" standalone="yes"?>
+<farmacias>
+	<farmacia>
+		<titular>Diego Laja Mora</titular>
+		<direccion>Av. Ricardo Carapeto, 95</direccion>
+		<localidad>Badajoz</localidad>
+		<telefono>924259263</telefono>
+		<horario>9-21h</horario>
+	</farmacia>
+	<farmacia>
+		<titular>Alejandro Ramirez del Molino Moran</titular>
+		<direccion>Menacho, 3</direccion>
+		<localidad>Badajoz</localidad>
+		<telefono>924222672</telefono>
+		<horario>9-21h</horario>
+	</farmacia>
+	<farmacia>
+		<titular>M Jose Fernandez de Arevalo Conejo</titular>
+		<direccion>Francisco Pizarro, 8</direccion>
+		<localidad>Badajoz</localidad>
+		<telefono>924223527</telefono>
+		<horario>9-21h</horario>
+	</farmacia>
+	<farmacia>
+		<titular>M Teresa Blanco Blanco</titular>
+		<direccion>Santo Domingo, 79 A</direccion>
+		<localidad>Badajoz</localidad>
+		<telefono>924223477</telefono>
+		<horario>9-21h</horario>
+	</farmacia>
+	<farmacia>
+		<titular>Amelia Berben Muñoz</titular>
+		<direccion>Avda. Santa Marina, 20</direccion>
+		<localidad>Badajoz</localidad>
+		<telefono>924232315</telefono>
+		<horario>9-21h</horario>
+	</farmacia>
+	<farmacia>
+		<titular>Luis Garcia-Doncel y Garcia</titular>
+		<direccion>Damian Tellez La fuente, 13-A</direccion>
+		<localidad>Badajoz</localidad>
+		<telefono>924230238</telefono>
+		<horario>9-21h</horario>
+	</farmacia>
+	<farmacia>
+		<titular>Salome Pacheco Velasco</titular>
+		<direccion>Avenida Maria Auxiliadora, 23</direccion>
+		<localidad>Badajoz</localidad>
+		<telefono>924222219</telefono>
+		<horario>9-21h</horario>
+	</farmacia>
+	<farmacia>
+		<titular>Cecilio J. Venegas Fito</titular>
+		<direccion>Avda. de Huelva, 10</direccion>
+		<localidad>Badajoz</localidad>
+		<telefono>924230937</telefono>
+		<horario>9-21h</horario>
+	</farmacia>
+	<farmacia>
+		<titular>Gemma Julia Medeiro Perez</titular>
+		<direccion>Antonio Ucieda Gavilanes, 1</direccion>
+		<localidad>Badajoz</localidad>
+		<telefono>924235473</telefono>
+		<horario>9-21h</horario>
+	</farmacia>
+	<farmacia>
+		<titular>Javier Hernadez Saes</titular>
+		<direccion>Avda. Alemania, 2</direccion>
+		<localidad>Badajoz</localidad>
+		<telefono>924237093</telefono>
+		<horario>9-21h</horario>
+	</farmacia>
+	<farmacia>
+		<titular>Lourdes Angeles Medeiro Perez</titular>
+		<direccion>Cardenal Cisneros, 70</direccion>
+		<localidad>Badajoz</localidad>
+		<telefono>924270910</telefono>
+		<horario>9-21h</horario>
+	</farmacia>
+	<farmacia>
+		<titular>M Jesus Salvatierra Gordillo</titular>
+		<direccion>Pantano de Cijara, Local 9 CC. Las Vaguadas</direccion>
+		<localidad>Badajoz</localidad>
+		<telefono>924267230</telefono>
+		<horario>9-21h</horario>
+	</farmacia>
+	<farmacia>
+		<titular>Gonzalo Blanco Jimenez</titular>
+		<direccion>Crta. Corte de Peleas, 104</direccion>
+		<localidad>Badajoz</localidad>
+		<telefono>924248544</telefono>
+		<horario>9-21h</horario>
+	</farmacia>
+	<farmacia>
+		<titular>Jesus Mediero Almendros</titular>
+		<direccion>Campanillas, 36. Ciudad Jardin</direccion>
+		<localidad>Badajoz</localidad>
+		<telefono>924223043</telefono>
+		<horario>9-21h</horario>
+	</farmacia>
+	<farmacia>
+		<titular>Rosalia Chacon Mariscal</titular>
+		<direccion>Avda. de Elvas, 11</direccion>
+		<localidad>Badajoz</localidad>
+		<telefono>924286037</telefono>
+		<horario>9-21h</horario>
+	</farmacia>
+	<farmacia>
+		<titular>Farmacia Alarcon C.B.</titular>
+		<direccion>Plaza de la Autonomia Extremeña, 3</direccion>
+		<localidad>Badajoz</localidad>
+		<telefono>924250912</telefono>
+		<horario>24h</horario>
+	</farmacia>
+	<farmacia>
+		<titular>Farmacia Martin Retamar C.B.</titular>
+		<direccion>Avda. Sto Cristo la Paz, 29-A</direccion>
+		<localidad>Badajoz</localidad>
+		<telefono>924250219</telefono>
+		<horario>24h</horario>
+	</farmacia>
+	<farmacia>
+		<titular>Pilar Blanco Palenciano</titular>
+		<direccion>Avda. Villanueva, 19-A</direccion>
+		<localidad>Badajoz</localidad>
+		<telefono>924231171</telefono>
+		<horario>24h</horario>
+	</farmacia>
+</farmacias>

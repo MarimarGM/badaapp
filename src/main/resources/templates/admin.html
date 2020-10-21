@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head th:replace="layouts/head::head"></head>
+<body>
+
+
+<!-- cabecera -->
+<header th:insert="layouts/header::header"></header>
+<!--card para mostrar la creacion de los diferentes aspectos-->
+<div class="container-fluid">
+    <div class="row">
+
+        <div class="col-md-3">
+            <div class="card" style="width: 18rem;">
+                <div class="card-body">
+                    <h5 class="card-title">Barrios</h5>
+                    <p class="card-text">Aquí puede crear los barrios dentro de Badajoz.</p>
+                    <a href="/admin/crear-barrio.html" class="btn btn-primary">Crear</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card" style="width: 18rem;">
+                <div class="card-body">
+                    <h5 class="card-title">Localidades</h5>
+                    <p class="card-text">Aquí puede crear las localidades pertenecientes a Badajoz.</p>
+                    <a href="/admin/crear-localidad.html" class="btn btn-primary">Crear</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card" style="width: 18rem;">
+                <div class="card-body">
+                    <h5 class="card-title">Eventos</h5>
+                    <p class="card-text">Aquí puede introducir los eventos.</p>
+                    <a href="/admin/crear-evento.html" class="btn btn-primary">Crear</a>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+</div>
+
+<style>
+    .container-fluid {
+        margin-top: 80px;
+    }
+</style>
+</body>
+</html>

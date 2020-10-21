@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head th:replace="layouts/head::head"></head>
+<body>
+
+<!-- cabecera -->
+<header th:insert="layouts/header::header"></header>
+
+<h2>-</h2>
+<!--card para mostrar los datos-->
+<div class="container">
+    <div class="row">
+        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 text-center">
+            <img src="/img/logoB.png" class="rounded mx-auto d-block" alt="Logo BadaApp">
+            <p>¡BadaApp, la Aplicación Para Pacenses!</p>
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/IucXtHezwxM" frameborder="0"
+                    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
+
+<hr>
+<!--tabla para mostrar el tiempo-->
+<div class="container">
+
+    <div class="row justify-content-md-center">
+
+        <table class="table">
+            <thead class="thead-light">
+            <tr>
+                <th scope="col">Temperatura</th>
+                <th scope="col">Humedad</th>
+                <th scope="col">Viento</th>
+                <th scope="col">Nubosidad</th>
+
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>
+                    <img th:src="@{'http://openweathermap.org/img/wn/' + ${tiempo.weather[0].icon} + '@2x.png'}" />
+                    <span th:text="${tiempo.main.temp + ' ºC'}"></span>
+                </td>
+                <td>
+                    <span th:text="${tiempo.main.humidity + ' %'}"></span>
+                </td>
+                <td><span th:text="${tiempo.wind.speed + ' km/h'}"></span>
+                </td>
+                </td>
+                <td><span th:text="${tiempo.clouds.all + ' %'}"></span>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+<hr>
+<!--card para mostrar los datos-->
+<p class="h6 text-center">Últimos eventos:</p>
+
+<div class="container-fluid">
+
+    <div class="row">
+        <div class="col-md-3 mt-4" th:each="evento: ${eventos}">
+            <div class="card" style="width: 18rem;">
+                <div class="card-header">
+                    <h5 class="card-title" th:text="${evento.titulo}"></h5>
+                </div>
+                <div class="card-body">
+                    <p class="card-text" th:text="${evento.descripcion}"></p>
+                    <p class="card-text" th:text="${evento.barriosNombre}"></p>
+                    <p class="card-text" th:text="${evento.localidadesNombre}"></p>
+                    <p class="card-text">
+                        <small class="text-muted text-center">
+                            <span th:text="${#temporals.format(evento.fechaDesde, 'dd MMM yyyy')}"></span>
+                            -
+                            <span th:text="${#temporals.format(evento.fechaHasta, 'dd MMM yyyy')}"></span>
+                        </small>
+                    </p>
+                    <a th:href="@{'/ver-evento.html/' + ${evento.id}}" class="btn btn-primary">Ver</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Footer -->
+<div th:insert="layouts/footer::footer"></div>
+<!-- Footer -->
+<style>
+    .carousel-item img{
+        width: auto;
+        height: 445px;
+        max-height: 345px;
+        margin: auto;
+        display: block;
+    }
+    h2 {
+    margin-bottom: 40px;
+    }
+    .container {
+    margin-top: 20px;
+    }
+    .container-fluid {
+        margin-top: 5px;
+        margin-bottom: 10px;
+        text-align: center;
+    }
+
+
+
+</style>
+</body>
+</html>

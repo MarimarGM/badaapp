@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head th:replace="layouts/head::head"></head>
+<body>
+
+<!-- cabecera -->
+<header th:insert="layouts/header::header"></header>
+<h3>Centros comerciales</h3>
+<!--card para mostrar los datos-->
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-3 mt-4" th:each="c: ${areas.centro}">
+            <div class="card" style="width: 18rem;">
+                <div class="card-header">
+                    <h5 class="card-title" th:text="${c.nombre}"></h5>
+                </div>
+                <div class="card-body text-justify">
+
+                    <img src="/img/icono_direccion.png" alt="..." class="rounded float-left">
+                    <p class="card-text" th:text="${c.direccion}"></p>
+
+                    <img src="/img/icono_telefono.png" alt="..." class="rounded float-left">
+                    <p class="card-text" th:text="${c.telefono}"></p>
+
+                    <img src="/img/icono_web.png" alt="..." class="rounded float-left">
+                    <p class="card-text" th:text="${c.web}"></p>
+
+                    <img src="/img/icono_mail.png" alt="..." class="rounded float-left">
+                    <p class="card-text" th:text="${c.email}"></p>
+
+                    <p class="card-text" th:text="${c.descripcion}"></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+!-- Footer -->
+<div th:insert="layouts/footer::footer"></div>
+<!-- Footer -->
+<style>
+     .container-fluid {
+        margin-top: 80px;
+    }
+
+</style>
+</body>
+</html>

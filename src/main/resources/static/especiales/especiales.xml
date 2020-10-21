@@ -1,0 +1,79 @@
+<?xml version="1.0" standalone="yes"?>
+<especiales>
+	<especial>
+		<id>carnaval</id>
+		<nombre>Carnaval</nombre>
+		<fecha>Febrero 2020</fecha>
+		<descripcion>En esta última edición, contamos como ganadores del concurso de murgas a 'Al Maridi' y del gran desfile de comparsas tuvo como
+		ganador a 'La Kochera'. Todo ello acompañado como siempre por la quema del 'Marimanta', el desfile infantil y el 'Entierro de las sardinas'.
+		</descripcion>
+		<imagenes>
+			<imagen>/img/carnaval1.jpg</imagen>
+			<imagen>/img/carnaval2.jpeg</imagen>
+			<imagen>/img/carnaval3.jpg</imagen>
+			<imagen>/img/carnaval4.jpg</imagen>
+			<imagen>/img/carnaval5.jpg</imagen>
+			<imagen>/img/carnaval6.jpg</imagen>
+			<imagen>/img/carnaval7.jpg</imagen>
+			<imagen>/img/carnaval8.jpg</imagen>
+		</imagenes>
+	</especial>
+	<especial>
+		<id>almossassa</id>
+		<nombre>Almossassa</nombre>
+		<fecha>Septiembre 2019</fecha>
+		<descripcion>Como cada año, Badajoz disfrutó de su fiesta más árabe, la que rememora el origen de la ciudad en el año 875 por Ibn Marwan. Calles llenas 
+		de decorados y telas con monedas, bailes sinuosos y serpientes. Todo ello adornado con la musica y los olores de la comida árabe, desde lo alto, todo 
+		lo vigila la gran Alcazaba.
+		</descripcion>
+		<imagenes>
+			<imagen>/img/almossassa1.jpg</imagen>
+			<imagen>/img/almossassa2.jpg</imagen>
+			<imagen>/img/almossassa3.jpg</imagen>
+			<imagen>/img/almossassa4.jpg</imagen>
+			<imagen>/img/almossassa5.jpg</imagen>
+			<imagen>/img/almossassa6.jpg</imagen>
+			<imagen>/img/almossassa7.jpg</imagen>
+			<imagen>/img/almossassa8.jpg</imagen>
+		</imagenes>
+
+	</especial>
+	<especial>
+		<id>palomos</id>
+		<nombre>Los Palomos</nombre>
+		<fecha>Junio 2019</fecha>
+		<descripcion>Después de 8 años, esta fiesta que defiende los derechos del colectivo LGTBI, sigue dando su toque de diversión a este fin en nuestra ciudad. 
+		Los invitados estrella este año fueron OBK y Lola Índigo, además, la Fundación Triángulo propuso diversas actividades previas al dia 8 de junio como la 
+		"IV Carrera por la Diversidad LGBTI".
+		</descripcion>
+		<imagenes>
+			<imagen>/img/lospalomos1.jpg</imagen>
+			<imagen>/img/lospalomos2.jpg</imagen>
+			<imagen>/img/lospalomos3.jpg</imagen>
+			<imagen>/img/lospalomos4.jpg</imagen>
+			<imagen>/img/lospalomos5.jpg</imagen>
+			<imagen>/img/lospalomos6.jpg</imagen>
+			<imagen>/img/lospalomos7.jpg</imagen>
+			<imagen>/img/lospalomos8.jpg</imagen>
+		</imagenes>
+	</especial>
+	<especial>
+		<id>ssanta</id>
+		<nombre>Semana Santa</nombre>
+		<fecha>Abril 2019</fecha>
+		<descripcion>"La Semana Santa es una conmemoración universal y eterna. De devoción. Días de majestuosidad que realzan el encanto de nuestros atardeceres y 
+		la grandiosidad de las obras de arte que cada día recorren nuestra ciudad", estas son las palabras del alcalde de la ciudad y el sentimiento que tienen todos
+		los devotos pacenses en estos dias. Pese a las inclemencias meteorologicas, otro año más la semana santa pacense inunda nuestras calles.
+		</descripcion>
+		<imagenes>
+			<imagen>/img/ssanta1.jpg</imagen>
+			<imagen>/img/ssanta2.jpg</imagen>
+			<imagen>/img/ssanta3.jpg</imagen>
+			<imagen>/img/ssanta4.jpg</imagen>
+			<imagen>/img/ssanta5.jpg</imagen>
+			<imagen>/img/ssanta6.jpg</imagen>
+			<imagen>/img/ssanta7.jpg</imagen>
+			<imagen>/img/ssanta8.jpg</imagen>
+		</imagenes>
+	</especial>
+</especiales>

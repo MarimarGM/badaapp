@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head th:replace="layouts/head::head"></head>
+<body>
+
+<!-- cabecera -->
+<header th:insert="layouts/header::header"></header>
+
+<h3>Líneas de autobús urbano</h3>
+
+<!--card para mostrar los datos-->
+<div class="container-fluid">
+
+    <div class="row">
+        <div class="col-md-3 mt-4" th:each="linea: ${lineas}">
+            <div class="card">
+                <div class="card-body">
+                    <a th:href="@{'transporte/linea/' + ${linea.nombre}}" th:text="'Línea: ' + ${linea.nombre} + '  '
+                    + ${linea.primeraParada} + ' - ' + ${linea.ultimaParada} "></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Footer -->
+<div th:insert="layouts/footer::footer"></div>
+<!-- Footer -->
+<style>
+    .container-fluid {
+    margin-top: 5px;
+    }
+    h3 {
+      margin-top: 80px;
+      text-align: center;
+    }
+</style>
+</body>
+</html>

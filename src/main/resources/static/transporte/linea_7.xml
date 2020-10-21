@@ -1,0 +1,323 @@
+<?xml version="1.0" standalone="yes"?>
+<records>
+	<record>
+		<stopCode>183</stopCode>
+		<stopName>Corte de Peleas 177</stopName>
+		<shapePtLat>38.873118</shapePtLat>
+		<shapePtLon>-6.947967</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>7,M4</lineas>
+	</record>
+	<record>
+		<stopCode>184</stopCode>
+		<stopName>Corte de Peleas 155</stopName>
+		<shapePtLat>38.873807</shapePtLat>
+		<shapePtLon>-6.950019</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>7,C1,M4</lineas>
+	</record>
+	<record>
+		<stopCode>185</stopCode>
+		<stopName>Corte de Peleas  136-138</stopName>
+		<shapePtLat>38.874873</shapePtLat>
+		<shapePtLon>-6.953143</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>7,C1,M4</lineas>
+	</record>
+	<record>
+		<stopCode>1749</stopCode>
+		<stopName>Calle Corte de Peleas  84</stopName>
+		<shapePtLat>38.875801</shapePtLat>
+		<shapePtLon>-6.955857</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>7,C1,M3,M4</lineas>
+	</record>
+	<record>
+		<stopCode>1751</stopCode>
+		<stopName>Calle Corte de Peleas  41</stopName>
+		<shapePtLat>38.876773</shapePtLat>
+		<shapePtLon>-6.958600</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>7,M3,M4</lineas>
+	</record>
+	<record>
+		<stopCode>1753</stopCode>
+		<stopName>Calle Santo Cristo de La Paz  7</stopName>
+		<shapePtLat>38.878285</shapePtLat>
+		<shapePtLon>-6.961863</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>7</lineas>
+	</record>
+	<record>
+		<stopCode>197</stopCode>
+		<stopName>Ronda del Pilar  57</stopName>
+		<shapePtLat>38.876284</shapePtLat>
+		<shapePtLon>-6.966831</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>4,7,18,21,12,CA,M3,M4,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>198</stopCode>
+		<stopName>Ronda del Pilar  29</stopName>
+		<shapePtLat>38.875583</shapePtLat>
+		<shapePtLon>-6.969416</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>4,7,18,21,12,CA,M3,M4,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>199</stopCode>
+		<stopName>Ronda del Pilar</stopName>
+		<shapePtLat>38.875261</shapePtLat>
+		<shapePtLon>-6.971206</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>4,7,18,21,12,M3,M4,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>202</stopCode>
+		<stopName>Plaza de La Libertad</stopName>
+		<shapePtLat>38.875516</shapePtLat>
+		<shapePtLon>-6.974570</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>3,5,6,7,9,18,S1,S2,11,13,CA,CM,5N,6N,7N,18N,9N</lineas>
+	</record>
+	<record>
+		<stopCode>207</stopCode>
+		<stopName>Av. de Cristobal Colón  10</stopName>
+		<shapePtLat>38.875846</shapePtLat>
+		<shapePtLon>-6.977402</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>3,5,7,9,S1,5N,7N,18N,9N</lineas>
+	</record>
+	<record>
+		<stopCode>1</stopCode>
+		<stopName>Av. de Cristobal Colón  27</stopName>
+		<shapePtLat>38.873696</shapePtLat>
+		<shapePtLon>-6.980181</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>3,5,7,9,S1,5N,7N,18N,9N</lineas>
+	</record>
+	<record>
+		<stopCode>124</stopCode>
+		<stopName>Avenida del Perú  2</stopName>
+		<shapePtLat>38.873448</shapePtLat>
+		<shapePtLon>-6.982245</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>5,7,9,S1,5N,18N,9N</lineas>
+	</record>
+	<record>
+		<stopCode>108</stopCode>
+		<stopName>Avenida del Perú  21</stopName>
+		<shapePtLat>38.873059</shapePtLat>
+		<shapePtLon>-6.986541</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>7,5N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>114</stopCode>
+		<stopName>Av. Sinforiano Madroñero  7</stopName>
+		<shapePtLat>38.870580</shapePtLat>
+		<shapePtLon>-6.989023</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>5,7,9,C1,5N,6N,7N,18N,9N</lineas>
+	</record>
+	<record>
+		<stopCode>96</stopCode>
+		<stopName>Av. Jose María Alcaraz Y Alenda </stopName>
+		<shapePtLat>38.868596</shapePtLat>
+		<shapePtLon>-6.989495</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>7</lineas>
+	</record>
+	<record>
+		<stopCode>1755</stopCode>
+		<stopName>Av. Jose María Alcaraz Y Alenda  34</stopName>
+		<shapePtLat>38.867238</shapePtLat>
+		<shapePtLon>-6.992159</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>7</lineas>
+	</record>
+	<record>
+		<stopCode>93</stopCode>
+		<stopName>Calle Segovia</stopName>
+		<shapePtLat>38.865991</shapePtLat>
+		<shapePtLon>-6.996250</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>7</lineas>
+	</record>
+	<record>
+		<stopCode>1756</stopCode>
+		<stopName>C/.José Miguel Sánchez Hueso  57</stopName>
+		<shapePtLat>38.863044</shapePtLat>
+		<shapePtLon>-7.003967</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>7</lineas>
+	</record>
+	<record>
+		<stopCode>91</stopCode>
+		<stopName>C/.José Miguel Sánchez Hueso </stopName>
+		<shapePtLat>38.862353</shapePtLat>
+		<shapePtLon>-7.004454</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>7</lineas>
+	</record>
+	<record>
+		<stopCode>92</stopCode>
+		<stopName>Calle Segovia</stopName>
+		<shapePtLat>38.865792</shapePtLat>
+		<shapePtLon>-6.996185</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>7</lineas>
+	</record>
+	<record>
+		<stopCode>94</stopCode>
+		<stopName>Av. Jose María Alcaraz Y Alenda</stopName>
+		<shapePtLat>38.867190</shapePtLat>
+		<shapePtLon>-6.991967</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>7</lineas>
+	</record>
+	<record>
+		<stopCode>95</stopCode>
+		<stopName>Av. Jose María Alcaraz Y Alenda  147</stopName>
+		<shapePtLat>38.868576</shapePtLat>
+		<shapePtLon>-6.989232</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>7</lineas>
+	</record>
+	<record>
+		<stopCode>113</stopCode>
+		<stopName>Av. Sinforiano Madroñero  6</stopName>
+		<shapePtLat>38.870686</shapePtLat>
+		<shapePtLon>-6.988879</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>5,7,9,C2,5N,6N,7N,18N,9N</lineas>
+	</record>
+	<record>
+		<stopCode>110</stopCode>
+		<stopName>Avenida del Perú  24</stopName>
+		<shapePtLat>38.873026</shapePtLat>
+		<shapePtLon>-6.986568</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>7,5N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>125</stopCode>
+		<stopName>Avenida del Perú  5</stopName>
+		<shapePtLat>38.873382</shapePtLat>
+		<shapePtLon>-6.982148</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>5,7,9,S1,5N,18N,9N</lineas>
+	</record>
+	<record>
+		<stopCode>2</stopCode>
+		<stopName>Av. de Cristobal Colón  15</stopName>
+		<shapePtLat>38.873579</shapePtLat>
+		<shapePtLon>-6.980034</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>5,7,9,S1,5N,18N,9N</lineas>
+	</record>
+	<record>
+		<stopCode>210</stopCode>
+		<stopName>Av. de Cristobal Colón  11</stopName>
+		<shapePtLat>38.875427</shapePtLat>
+		<shapePtLon>-6.977506</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>3,5,7,9,S1,5N,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>211</stopCode>
+		<stopName>Plaza La Libertad (Tubasa)</stopName>
+		<shapePtLat>38.875414</shapePtLat>
+		<shapePtLon>-6.974404</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>3,5,6,7,9,18,S2,11,13,CM,5N,6N,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>248</stopCode>
+		<stopName>Calle Enrique Segura Otaño  3</stopName>
+		<shapePtLat>38.873182</shapePtLat>
+		<shapePtLon>-6.974466</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>2,3,5,6,7,9,18,21,11,13,M3,M4,CM,5N,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>156</stopCode>
+		<stopName>Calle Enrique Segura Otaño  17</stopName>
+		<shapePtLat>38.873039</shapePtLat>
+		<shapePtLon>-6.971897</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>7,18,21,12,M3,M4,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>161</stopCode>
+		<stopName>Av. de Pardaleras  10</stopName>
+		<shapePtLat>38.873309</shapePtLat>
+		<shapePtLon>-6.970020</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>7,18,21,12,M3,M4,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>162</stopCode>
+		<stopName>Av. de Pardaleras  46</stopName>
+		<shapePtLat>38.874210</shapePtLat>
+		<shapePtLon>-6.966700</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>7,18,21,12,M3,M4,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>163</stopCode>
+		<stopName>Av. de Pardaleras</stopName>
+		<shapePtLat>38.874762</shapePtLat>
+		<shapePtLon>-6.964221</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>7,18,21,12,M3,M4,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>164</stopCode>
+		<stopName>Ronda del Pilar  93</stopName>
+		<shapePtLat>38.877147</shapePtLat>
+		<shapePtLon>-6.965054</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>7,18,21,12,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>1754</stopCode>
+		<stopName>Calle Santo Cristo de La Paz  8</stopName>
+		<shapePtLat>38.878243</shapePtLat>
+		<shapePtLon>-6.961936</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>7</lineas>
+	</record>
+	<record>
+		<stopCode>1752</stopCode>
+		<stopName>Calle Corte de Peleas  40</stopName>
+		<shapePtLat>38.876681</shapePtLat>
+		<shapePtLon>-6.958525</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>4,7,M3,M4</lineas>
+	</record>
+	<record>
+		<stopCode>1750</stopCode>
+		<stopName>Calle Corte de Peleas  88</stopName>
+		<shapePtLat>38.875641</shapePtLat>
+		<shapePtLon>-6.955488</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>7,C2,M3,M4</lineas>
+	</record>
+	<record>
+		<stopCode>181</stopCode>
+		<stopName>Calle Corte de Peleas  120</stopName>
+		<shapePtLat>38.874899</shapePtLat>
+		<shapePtLon>-6.953365</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>7,C2,M4</lineas>
+	</record>
+	<record>
+		<stopCode>182</stopCode>
+		<stopName>Calle Corte de Peleas  158</stopName>
+		<shapePtLat>38.873803</shapePtLat>
+		<shapePtLon>-6.950100</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>7,C2,M4</lineas>
+	</record>
+</records>

@@ -1,0 +1,235 @@
+<?xml version="1.0" standalone="yes"?>
+<records>
+	<record>
+		<stopCode>212</stopCode>
+		<stopName>Av. de Huelva  10</stopName>
+		<shapePtLat>38.873730</shapePtLat>
+		<shapePtLon>-6.975032</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>2,18,21,S2,M3,M4,6N</lineas>
+	</record>
+	<record>
+		<stopCode>248</stopCode>
+		<stopName>Calle Enrique Segura Otaño  3</stopName>
+		<shapePtLat>38.873182</shapePtLat>
+		<shapePtLon>-6.974466</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>2,3,5,6,7,9,18,21,11,13,M3,M4,CM,5N,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>156</stopCode>
+		<stopName>Calle Enrique Segura Otaño  17</stopName>
+		<shapePtLat>38.873039</shapePtLat>
+		<shapePtLon>-6.971897</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>7,18,21,12,M3,M4,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>161</stopCode>
+		<stopName>Av. de Pardaleras  10</stopName>
+		<shapePtLat>38.873309</shapePtLat>
+		<shapePtLon>-6.970020</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>7,18,21,12,M3,M4,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>162</stopCode>
+		<stopName>Av. de Pardaleras  46</stopName>
+		<shapePtLat>38.874210</shapePtLat>
+		<shapePtLon>-6.966700</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>7,18,21,12,M3,M4,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>163</stopCode>
+		<stopName>Av. de Pardaleras</stopName>
+		<shapePtLat>38.874762</shapePtLat>
+		<shapePtLon>-6.964221</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>7,18,21,12,M3,M4,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>194</stopCode>
+		<stopName>Calle Santo Cristo de La Paz  27</stopName>
+		<shapePtLat>38.876911</shapePtLat>
+		<shapePtLon>-6.961268</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>4,M3,M4</lineas>
+	</record>
+	<record>
+		<stopCode>1752</stopCode>
+		<stopName>Calle Corte de Peleas  40</stopName>
+		<shapePtLat>38.876681</shapePtLat>
+		<shapePtLon>-6.958525</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>4,7,M3,M4</lineas>
+	</record>
+	<record>
+		<stopCode>1750</stopCode>
+		<stopName>Calle Corte de Peleas  88</stopName>
+		<shapePtLat>38.875641</shapePtLat>
+		<shapePtLon>-6.955488</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>7,C2,M3,M4</lineas>
+	</record>
+	<record>
+		<stopCode>181</stopCode>
+		<stopName>Calle Corte de Peleas  120</stopName>
+		<shapePtLat>38.874899</shapePtLat>
+		<shapePtLon>-6.953365</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>7,C2,M4</lineas>
+	</record>
+	<record>
+		<stopCode>182</stopCode>
+		<stopName>Calle Corte de Peleas  158</stopName>
+		<shapePtLat>38.873803</shapePtLat>
+		<shapePtLon>-6.950100</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>7,C2,M4</lineas>
+	</record>
+	<record>
+		<stopCode>1808</stopCode>
+		<stopName>Calle Corte de Peleas 1</stopName>
+		<shapePtLat>38.872993</shapePtLat>
+		<shapePtLon>-6.947780</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>M4</lineas>
+	</record>
+	<record>
+		<stopCode>1809</stopCode>
+		<stopName>Calle Corte de Peleas 2</stopName>
+		<shapePtLat>38.871045</shapePtLat>
+		<shapePtLon>-6.942081</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>M4</lineas>
+	</record>
+	<record>
+		<stopCode>1811</stopCode>
+		<stopName>Calle Corte de Peleas 3</stopName>
+		<shapePtLat>38.868173</shapePtLat>
+		<shapePtLon>-6.933729</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>M4</lineas>
+	</record>
+	<record>
+		<stopCode>1813</stopCode>
+		<stopName>Calle Corte de Peleas 4</stopName>
+		<shapePtLat>38.823703</shapePtLat>
+		<shapePtLon>-6.830353</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>M4</lineas>
+	</record>
+	<record>
+		<stopCode>1775</stopCode>
+		<stopName>Calle Roble(Alvarado) IDA</stopName>
+		<shapePtLat>38.808572</shapePtLat>
+		<shapePtLon>-6.790463</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>M4</lineas>
+	</record>
+	<record>
+		<stopCode>1814</stopCode>
+		<stopName>Calle Corte de Peleas 5</stopName>
+		<shapePtLat>38.819728</shapePtLat>
+		<shapePtLon>-6.820648</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>M4</lineas>
+	</record>
+	<record>
+		<stopCode>1812</stopCode>
+		<stopName>Calle Corte de Peleas 6</stopName>
+		<shapePtLat>38.868340</shapePtLat>
+		<shapePtLon>-6.933854</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>M4</lineas>
+	</record>
+	<record>
+		<stopCode>1810</stopCode>
+		<stopName>Calle Corte de Peleas 7</stopName>
+		<shapePtLat>38.872360</shapePtLat>
+		<shapePtLon>-6.941916</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>M4</lineas>
+	</record>
+	<record>
+		<stopCode>183</stopCode>
+		<stopName>Corte de Peleas 177</stopName>
+		<shapePtLat>38.873118</shapePtLat>
+		<shapePtLon>-6.947967</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>7,M4</lineas>
+	</record>
+	<record>
+		<stopCode>184</stopCode>
+		<stopName>Corte de Peleas 155</stopName>
+		<shapePtLat>38.873807</shapePtLat>
+		<shapePtLon>-6.950019</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>7,C1,M4</lineas>
+	</record>
+	<record>
+		<stopCode>185</stopCode>
+		<stopName>Corte de Peleas  136-138</stopName>
+		<shapePtLat>38.874873</shapePtLat>
+		<shapePtLon>-6.953143</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>7,C1,M4</lineas>
+	</record>
+	<record>
+		<stopCode>1749</stopCode>
+		<stopName>Calle Corte de Peleas  84</stopName>
+		<shapePtLat>38.875801</shapePtLat>
+		<shapePtLon>-6.955857</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>7,C1,M3,M4</lineas>
+	</record>
+	<record>
+		<stopCode>1751</stopCode>
+		<stopName>Calle Corte de Peleas  41</stopName>
+		<shapePtLat>38.876773</shapePtLat>
+		<shapePtLon>-6.958600</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>7,M3,M4</lineas>
+	</record>
+	<record>
+		<stopCode>1791</stopCode>
+		<stopName>Calle Santo Cristo de La Paz  14</stopName>
+		<shapePtLat>38.877019</shapePtLat>
+		<shapePtLon>-6.961319</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>M3,M4</lineas>
+	</record>
+	<record>
+		<stopCode>197</stopCode>
+		<stopName>Ronda del Pilar  57</stopName>
+		<shapePtLat>38.876284</shapePtLat>
+		<shapePtLon>-6.966831</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>4,7,18,21,12,CA,M3,M4,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>198</stopCode>
+		<stopName>Ronda del Pilar  29</stopName>
+		<shapePtLat>38.875583</shapePtLat>
+		<shapePtLon>-6.969416</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>4,7,18,21,12,CA,M3,M4,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>199</stopCode>
+		<stopName>Ronda del Pilar</stopName>
+		<shapePtLat>38.875261</shapePtLat>
+		<shapePtLon>-6.971206</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>4,7,18,21,12,M3,M4,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>201</stopCode>
+		<stopName>Ronda del Pilar  4</stopName>
+		<shapePtLat>38.875217</shapePtLat>
+		<shapePtLon>-6.973151</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>2,5,18,21,CA,M3,M4</lineas>
+	</record>
+</records>

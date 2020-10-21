@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<!--Los HTML se han sacado de Bootstrap-->
+<header th:fragment="header">
+    <nav class="navbar navbar-expand-lg navbar-dark fixed-top bg-primary">
+        <a class="navbar-brand" href="/">
+            <img src="/img/logoBL.png" width="50" height="50" alt="BadaApp">
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse"
+                aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav mr-auto">
+
+                <li class="nav-item">
+                    <a class="nav-link text-white" href="/">Inicio</a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link text-white" href="/transportes.html">Transporte</a>
+                </li>
+
+
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Servicios
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="/farmacias.html">Farmacias</a>
+                        <a class="dropdown-item" href="/urgencias.html">Urgencias</a>
+
+                        <a class="dropdown-item" href="/veterinarios.html">Veterinarios</a>
+                        <a class="dropdown-item" href="/areas.html">Centros comerciales</a>
+                    </div>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link text-white" href="/eventos.html">Eventos</a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link text-white" href="/especiales.html">Especiales</a>
+                </li>
+
+            </ul>
+            <div class="form-inline mt-2 mt-md-0">
+
+                <div class="dropdown" th:if="${usuario != null}">
+                    <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton"
+                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                <span>Hola,
+                                    <span th:text="${usuario.nombre}"></span>
+                                </span>
+                    </button>
+                    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                        <a class="dropdown-item" href="/admin.html">Administración</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="/logout.html">Salir</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header>
+
+</html>

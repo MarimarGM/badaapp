@@ -1,0 +1,331 @@
+<?xml version="1.0" standalone="yes"?>
+<records>
+	<record>
+		<stopCode>70</stopCode>
+		<stopName>Av. Javier Blanco Palenciano</stopName>
+		<shapePtLat>38.886487</shapePtLat>
+		<shapePtLon>-7.000291</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>C2</lineas>
+	</record>
+	<record>
+		<stopCode>1758</stopCode>
+		<stopName>Avenida Innovación</stopName>
+		<shapePtLat>38.887801</shapePtLat>
+		<shapePtLon>-6.999219</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>C2</lineas>
+	</record>
+	<record>
+		<stopCode>38</stopCode>
+		<stopName>Av. Castillo Puebla de Alcocer  24</stopName>
+		<shapePtLat>38.887857</shapePtLat>
+		<shapePtLon>-6.996936</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>C2</lineas>
+	</record>
+	<record>
+		<stopCode>39</stopCode>
+		<stopName>Av. Castillo Puebla de Alcocer  2</stopName>
+		<shapePtLat>38.888215</shapePtLat>
+		<shapePtLon>-6.992417</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>C2</lineas>
+	</record>
+	<record>
+		<stopCode>40</stopCode>
+		<stopName>Av. Miguel de Fabra  14</stopName>
+		<shapePtLat>38.889806</shapePtLat>
+		<shapePtLon>-6.990521</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>C2</lineas>
+	</record>
+	<record>
+		<stopCode>42</stopCode>
+		<stopName>Pedro de Alvarado</stopName>
+		<shapePtLat>38.888593</shapePtLat>
+		<shapePtLon>-6.987128</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>C2</lineas>
+	</record>
+	<record>
+		<stopCode>29</stopCode>
+		<stopName>Av. Augusto Vázquez  9</stopName>
+		<shapePtLat>38.887830</shapePtLat>
+		<shapePtLon>-6.985454</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>C2,M1</lineas>
+	</record>
+	<record>
+		<stopCode>48</stopCode>
+		<stopName>Av. Augusto Vázquez  3</stopName>
+		<shapePtLat>38.888358</shapePtLat>
+		<shapePtLon>-6.984333</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>18,C2</lineas>
+	</record>
+	<record>
+		<stopCode>56</stopCode>
+		<stopName>Av. Carolina Coronado</stopName>
+		<shapePtLat>38.890181</shapePtLat>
+		<shapePtLon>-6.982144</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>2,C2,21</lineas>
+	</record>
+	<record>
+		<stopCode>57</stopCode>
+		<stopName>Argüello Carvajal Teologo Siglo XVII  23</stopName>
+		<shapePtLat>38.888560</shapePtLat>
+		<shapePtLon>-6.979591</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>2,C2,21</lineas>
+	</record>
+	<record>
+		<stopCode>58</stopCode>
+		<stopName>Cardenal Cisneros  48</stopName>
+		<shapePtLat>38.887730</shapePtLat>
+		<shapePtLon>-6.977863</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>2,C2,21</lineas>
+	</record>
+	<record>
+		<stopCode>59</stopCode>
+		<stopName>Av. Padre Tacoronte</stopName>
+		<shapePtLat>38.889914</shapePtLat>
+		<shapePtLon>-6.976103</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>2,C2,21</lineas>
+	</record>
+	<record>
+		<stopCode>62</stopCode>
+		<stopName>Av. Padre Tacoronte 14</stopName>
+		<shapePtLat>38.891676</shapePtLat>
+		<shapePtLon>-6.978783</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>C2,21</lineas>
+	</record>
+	<record>
+		<stopCode>63</stopCode>
+		<stopName>Av. Padre Tacoronte  24</stopName>
+		<shapePtLat>38.893024</shapePtLat>
+		<shapePtLon>-6.981217</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>2,C2,21</lineas>
+	</record>
+	<record>
+		<stopCode>11</stopCode>
+		<stopName>Calle Gurugú  126</stopName>
+		<shapePtLat>38.895641</shapePtLat>
+		<shapePtLon>-6.978382</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>C2</lineas>
+	</record>
+	<record>
+		<stopCode>1759</stopCode>
+		<stopName>Calle Gurugú</stopName>
+		<shapePtLat>38.895897</shapePtLat>
+		<shapePtLon>-6.975015</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>C2</lineas>
+	</record>
+	<record>
+		<stopCode>13</stopCode>
+		<stopName>Camino Sta. Engracia  7</stopName>
+		<shapePtLat>38.891371</shapePtLat>
+		<shapePtLon>-6.972176</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>C2</lineas>
+	</record>
+	<record>
+		<stopCode>18</stopCode>
+		<stopName>Rotonda Ntra. Sra. de Botoa</stopName>
+		<shapePtLat>38.886437</shapePtLat>
+		<shapePtLon>-6.975600</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>18,C2,11,13,6N</lineas>
+	</record>
+	<record>
+		<stopCode>238</stopCode>
+		<stopName>Ronda Cincunvalacion Reina Sofia</stopName>
+		<shapePtLat>38.883717</shapePtLat>
+		<shapePtLon>-6.971595</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>C2</lineas>
+	</record>
+	<record>
+		<stopCode>165</stopCode>
+		<stopName>Av. Ricardo Carapeto Zambrano  18</stopName>
+		<shapePtLat>38.879177</shapePtLat>
+		<shapePtLon>-6.961171</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>18,C2,21,12,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>166</stopCode>
+		<stopName>Av. Ricardo Carapeto Zambrano  48</stopName>
+		<shapePtLat>38.879113</shapePtLat>
+		<shapePtLon>-6.958911</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>18,C2,21,12,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>167</stopCode>
+		<stopName>Av. Ricardo Carapeto Zambrano  65</stopName>
+		<shapePtLat>38.878919</shapePtLat>
+		<shapePtLon>-6.956484</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>18,C2,21,12,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>180</stopCode>
+		<stopName>Calle Isidro Pacense  20</stopName>
+		<shapePtLat>38.877403</shapePtLat>
+		<shapePtLon>-6.955826</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>C2</lineas>
+	</record>
+	<record>
+		<stopCode>1750</stopCode>
+		<stopName>Calle Corte de Peleas  88</stopName>
+		<shapePtLat>38.875641</shapePtLat>
+		<shapePtLon>-6.955488</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>7,C2,M3,M4</lineas>
+	</record>
+	<record>
+		<stopCode>181</stopCode>
+		<stopName>Calle Corte de Peleas  120</stopName>
+		<shapePtLat>38.874899</shapePtLat>
+		<shapePtLon>-6.953365</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>7,C2,M4</lineas>
+	</record>
+	<record>
+		<stopCode>182</stopCode>
+		<stopName>Calle Corte de Peleas  158</stopName>
+		<shapePtLat>38.873803</shapePtLat>
+		<shapePtLon>-6.950100</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>7,C2,M4</lineas>
+	</record>
+	<record>
+		<stopCode>188</stopCode>
+		<stopName>C/. Luis Andreu Fernandez de Molina</stopName>
+		<shapePtLat>38.870656</shapePtLat>
+		<shapePtLon>-6.953588</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>C2</lineas>
+	</record>
+	<record>
+		<stopCode>190</stopCode>
+		<stopName>Av. Antonio Hernández Gil  18</stopName>
+		<shapePtLat>38.871599</shapePtLat>
+		<shapePtLon>-6.956232</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>4,5,C2,5N</lineas>
+	</record>
+	<record>
+		<stopCode>221</stopCode>
+		<stopName>Av. Luis de Góngora 1</stopName>
+		<shapePtLat>38.867624</shapePtLat>
+		<shapePtLon>-6.958747</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>C2,S1,5N</lineas>
+	</record>
+	<record>
+		<stopCode>222</stopCode>
+		<stopName>Av. Luis de Góngora 2</stopName>
+		<shapePtLat>38.866651</shapePtLat>
+		<shapePtLon>-6.961248</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>C2,S1,5N</lineas>
+	</record>
+	<record>
+		<stopCode>223</stopCode>
+		<stopName>Av. Salvador Allende</stopName>
+		<shapePtLat>38.863325</shapePtLat>
+		<shapePtLon>-6.962646</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>C2,S1</lineas>
+	</record>
+	<record>
+		<stopCode>146</stopCode>
+		<stopName>Av. Vicente Marcelo Nessi  35</stopName>
+		<shapePtLat>38.862183</shapePtLat>
+		<shapePtLon>-6.969127</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>C2,S1</lineas>
+	</record>
+	<record>
+		<stopCode>144</stopCode>
+		<stopName>Calle Campanilla  17</stopName>
+		<shapePtLat>38.864104</shapePtLat>
+		<shapePtLon>-6.968576</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>C2</lineas>
+	</record>
+	<record>
+		<stopCode>145</stopCode>
+		<stopName>Calle La Violeta  8</stopName>
+		<shapePtLat>38.865677</shapePtLat>
+		<shapePtLon>-6.971621</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>3,C2</lineas>
+	</record>
+	<record>
+		<stopCode>151</stopCode>
+		<stopName>Calle Jacobo Rodríguez Pereira  38</stopName>
+		<shapePtLat>38.867617</shapePtLat>
+		<shapePtLon>-6.974992</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>C2,S1</lineas>
+	</record>
+	<record>
+		<stopCode>121</stopCode>
+		<stopName>Av. María Auxiliadora  51</stopName>
+		<shapePtLat>38.867453</shapePtLat>
+		<shapePtLon>-6.981127</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>C2,M3,6N</lineas>
+	</record>
+	<record>
+		<stopCode>122</stopCode>
+		<stopName>Av. Sinforiano Madroñero  4</stopName>
+		<shapePtLat>38.866240</shapePtLat>
+		<shapePtLon>-6.984723</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>5,C2,12,M1,5N,6N</lineas>
+	</record>
+	<record>
+		<stopCode>123</stopCode>
+		<stopName>Av. Sinforiano Madroñero  18</stopName>
+		<shapePtLat>38.868280</shapePtLat>
+		<shapePtLon>-6.987192</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>5,C2,12,5N,6N</lineas>
+	</record>
+	<record>
+		<stopCode>113</stopCode>
+		<stopName>Av. Sinforiano Madroñero  6</stopName>
+		<shapePtLat>38.870686</shapePtLat>
+		<shapePtLon>-6.988879</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>5,7,9,C2,5N,6N,7N,18N,9N</lineas>
+	</record>
+	<record>
+		<stopCode>68</stopCode>
+		<stopName>Av. de La Medicina 1</stopName>
+		<shapePtLat>38.883143</shapePtLat>
+		<shapePtLon>-7.000136</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>C2</lineas>
+	</record>
+	<record>
+		<stopCode>69</stopCode>
+		<stopName>Av. de La Medicina 2</stopName>
+		<shapePtLat>38.885169</shapePtLat>
+		<shapePtLon>-6.999755</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>C2</lineas>
+	</record>
+</records>

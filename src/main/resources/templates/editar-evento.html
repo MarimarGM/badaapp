@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+
+<head th:replace="layouts/head::head"></head>
+
+<body>
+
+<!-- cabecera -->
+<header th:insert="layouts/header::header"></header>
+
+<div class="container">
+
+
+    <form class="form-signin" method="post" name="editar" th:action="'/admin/editarEventoAction/' + ${evento.id}">
+        <div class="form-group row">
+            <label for="tituloId" class="col-sm-2 col-form-label">Título</label>
+            <div class="col-sm-10">
+                <input type="text" name="titulo" th:value="${evento.titulo}" class="form-control" id="tituloId">
+            </div>
+
+            <br />
+            <br />
+
+            <label for="desc" class="col-sm-2 col-form-label">Descripción</label>
+            <div class="col-sm-10">
+                <textarea name="descripcion" class="form-control" id="desc" th:text="${evento.descripcion}">
+                </textarea>
+            </div>
+
+            <br />
+            <br />
+            <br />
+
+            <label for="fechaDesde" class="col-sm-2 col-form-label">Fecha Desde</label>
+            <div class="col-sm-10">
+                <input type="datetime-local" name="fechaDesde" th:value="${evento.fechaDesde}" class="form-control" id="fechaDesde" />
+            </div>
+
+            <br />
+            <br />
+
+            <label for="fechaHasta" class="col-sm-2 col-form-label">Fecha Hasta</label>
+            <div class="col-sm-10">
+                <input type="datetime-local" name="fechaHasta" th:value="${evento.fechaHasta}" class="form-control" id="fechaHasta" />
+            </div>
+
+            <br />
+            <br />
+
+            <label for="selectBarrio" class="col-sm-2 col-form-label">Barrio</label>
+            <div class="col-sm-10">
+                <select class="form-control" id="selectBarrio" name="barriosId">
+                    <option></option>
+                    <option th:each="barrio: ${barrios}" th:value="${evento.barriosId}" th:selected="${barrio.id == evento.barriosId}">
+                        <span th:text="${barrio.nombre}"></span>
+                    </option>
+                </select>
+            </div>
+
+            <br />
+            <br />
+
+            <label for="selectLocalidad" class="col-sm-2 col-form-label">Localidad</label>
+            <div class="col-sm-10">
+                <select class="form-control" id="selectLocalidad" name="localidadesId">
+                    <option></option>
+                    <option th:each="localidad: ${localidades}" th:value="${evento.localidadesId}" th:selected="${localidad.id == evento.localidadesId}">
+                        <span th:text="${localidad.nombre}"></span>
+                    </option>
+                </select>
+            </div>
+
+            <br />
+            <br />
+
+        </div>
+        <button class="btn btn-primary" type="submit">Editar</button>
+    </form>
+
+</div>
+
+<style>
+    .container { margin-top: 80px; }
+</style>
+
+</body>
+</html>

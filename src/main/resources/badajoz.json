@@ -1,0 +1,42 @@
+{
+  "coord": {
+    "lon": -6.97,
+    "lat": 38.88
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 278.36,
+    "pressure": 1015,
+    "humidity": 93,
+    "temp_min": 277.59,
+    "temp_max": 279.15
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 3.1,
+    "deg": 270
+  },
+  "clouds": {
+    "all": 0
+  },
+  "dt": 1574061438,
+  "sys": {
+    "type": 1,
+    "id": 6402,
+    "country": "ES",
+    "sunrise": 1574061210,
+    "sunset": 1574097164
+  },
+  "timezone": 3600,
+  "id": 2521420,
+  "name": "Badajoz",
+  "cod": 200
+}

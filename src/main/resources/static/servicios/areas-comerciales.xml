@@ -1,0 +1,125 @@
+<?xml version="1.0" standalone="yes"?>
+<areas>
+	<centro>
+		<nombre>Centro Comercial Abierto Menacho</nombre>
+		<direccion>Calle Menacho</direccion>
+		<web>https://www.ccamenacho.com/</web>
+		<email>centrocomercialabiertomenacho@gmail.com</email>
+		<telefono>924220965</telefono>
+		<descripcion>En nuestro centro comercial tenemos numerosas tiendas del sector
+		Textil, calzado, ropa, complementos, joyería y del sector Hogar, muebles, telefonía...
+		</descripcion>
+		<imagen>/img/menacho.jpg</imagen>
+	</centro>
+	<centro>
+		<nombre>Centro Comercial Abierto Casco Antiguo</nombre>
+		<direccion>Calle Soledad</direccion>
+		<web>www.aecabadajoz.com</web>
+		<email>m.me/aecabadajoz</email>
+		<telefono>669894208</telefono>
+		<descripcion>Centro Comercial Abierto de referencia en su zona de influencia tanto española como portuguesa.
+		Ofreciendo una diversidad de ocio diurno y nocturno con locales de hostelería y comercio singular.
+		</descripcion>
+		<imagen>/img/cccascoantiguo.jpg</imagen>
+	</centro>
+	<centro>
+		<nombre>Centro Comercial La Plaza</nombre>
+		<direccion>Avenida Antonio Cuellar Grajera</direccion>
+		<web>http://www.centrocomerciallaplaza.com/</web>
+		<email>cclaplazaba@mercasa.es</email>
+		<telefono>924207054</telefono>
+		<descripcion>El Centro Comercial La Plaza refleja las necesidades de los vecinos del barrio de 
+		Pardaleras de Badajoz, aunque su situación privilegiada atrae clientes de las zonas próximas.
+		</descripcion>
+		<imagen>/img/cclaplaza.jpg</imagen>
+	</centro>
+	<centro>
+		<nombre>Centro Comercial Conquistadores</nombre>
+		<direccion>Avenida de Elvas</direccion>
+		<web>http://www.ccconquistadoresbadajoz.com/</web>
+		<email>gerencia@ccconquistadoresbadajoz.com</email>
+		<telefono>924286119</telefono>
+		<descripcion>Desde su inauguración, el Centro Comercial Conquistadores ha sido un referente en la ciudad 
+		de Badajoz, albergando actualmente los únicos cines de la ciudad.
+		</descripcion>
+		<imagen>/img/conquistadores.png</imagen>
+	</centro>
+	<centro>
+		<nombre>Centro Comercial El Faro</nombre>
+		<direccion>Avenida de Elvas</direccion>
+		<web>http://www.ccelfaro.com</web>
+		<email>atencionalcliente@ccelfaro.com</email>
+		<telefono>924266888</telefono>
+		<descripcion>EL FARO es el mayor centro de compras, ocio y restauración de Extremadura. 
+		Las cifras que lo definen hablan por si mismas. Con mas de 66.000 m2, 2.500 plazas de 
+		aparcamiento gratuito, y más de 100 locales convierten al Faro en la referencia comercial del Extremadura.
+		</descripcion>
+		<imagen>/img/elfaro.jpg</imagen>
+	</centro>
+	<centro>
+		<nombre>Centro Comercial Abierto San Roque</nombre>
+		<direccion>Avenida Ricardo Carapeto</direccion>
+		<web>www.acesanroque.org</web>
+		<email>info@acesanroque.org</email>
+		<telefono>924224710</telefono>
+		<descripcion>En   1996  se unió un grupo de comerciantes y empresarios con la  misma inquietud, 
+		la de potenciar el comercio en San Roque y hoy,  años después seguimos trabajando en la misma linea.
+		</descripcion>
+		<imagen>/img/ccsanroque.jpg</imagen>
+	</centro>
+	<centro>
+		<nombre>Parque Comercial Ronda Norte</nombre>
+		<direccion>Avenida Manuel Rojas Torres</direccion>
+		<web>https://www.facebook.com/parquecomercialrondanortebadajoz/</web>
+		<email>m.me/parquecomercialrondanortebadajoz</email>
+		<telefono>desconocido</telefono>
+		<descripcion>Parque Comercial de medianas superficies en Badajoz, con Mercadona, Sprinter, Kiabi, Aurgi, 
+		Merkal, Lidl, Al Corte y Cafetería Aroma Café.
+		</descripcion>
+		<imagen>/img/rondanorte.png</imagen>
+	</centro>
+	<centro>
+		<nombre>Centro Comercial Badajoz Valverde</nombre>
+		<direccion>Carretera de Valverde</direccion>
+		<web>https://www.cc-carrefour-valverde.com/</web>
+		<email>jesus_fernando_morales_encinas@carrefour.com</email>
+		<telefono>635880342</telefono>
+		<descripcion>Centro comercial que está formado no solo por Carrefour, si no por una serie de establecimientos como Decimas, La casa de los bolsos,
+		Burger King,talleres Feu Vert, Tropical Zoo, herbolario, Mhia, entre otros.
+		</descripcion>
+		<imagen>/img/carrefourvalverde.jpg</imagen>
+	</centro>
+	<centro>
+		<nombre>Centro Comercial La Granadilla</nombre>
+		<direccion>Avenida Jose María Alcaraz y Alenda</direccion>
+		<web>https://www.cc-carrefour-granadilla.com/</web>
+		<email>francisco_carmona_munoz@carrefour.com</email>
+		<telefono>644816242</telefono>
+		<descripcion>Centro comercial que está formado no solo por Carrefour, si no por una serie de establecimientos como la ONCE, peluquería, Belros, 
+		Banco Santander, Cafetería, entre otros.
+		</descripcion>
+		<imagen>/img/carrefourgranadilla.jpg</imagen>
+	</centro>
+	<centro>
+		<nombre>Parque Empresarial El Nevero</nombre>
+		<direccion>Calle Joaquín Sánchez Valverde</direccion>
+		<web>http://poligonoelnevero.com/</web>
+		<email>desconocido</email>
+		<telefono>desconocido</telefono>
+		<descripcion>Parque comercial formado por una serie de empresas ubicadas en dicho poligono industrial. Podemos destacar Leroy Merlin, Acl Formación, 
+		Freiduria La Mar, o diversos talleres mecánicos, de madera, bazares chinos,...Se podrá encontrar diversidad de servicios.
+		</descripcion>
+		<imagen>/img/nevero.jpg</imagen>
+	</centro>
+	<centro>
+		<nombre>Centro Comercial Las Vaguadas</nombre>
+		<direccion>Plaza Rafael Mingarro Satúe</direccion>
+		<web>http://centrocomerciallasvaguadas.com/</web>
+		<email>gerencia@centrocomerciallasvaguadas.com</email>
+		<telefono>924267552</telefono>
+		<descripcion>Sus 26 locales que incluyen una amplia oferta en restauración, ocio y servicios lo convierten en el lugar ideal para disfrutar
+		del tiempo libre entre familia y amigos.
+		</descripcion>
+		<imagen>/img/lasvaguadas.jpg</imagen>
+	</centro>
+</areas>

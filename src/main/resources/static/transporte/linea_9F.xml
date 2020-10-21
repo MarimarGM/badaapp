@@ -1,0 +1,371 @@
+<?xml version="1.0" standalone="yes"?>
+<records>
+	<record>
+		<stopCode>136</stopCode>
+		<stopName>Calle Pantano de La Serena  25</stopName>
+		<shapePtLat>38.849352</shapePtLat>
+		<shapePtLon>-6.975718</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>9</lineas>
+	</record>
+	<record>
+		<stopCode>137</stopCode>
+		<stopName>Calle Pantano de La Serena  46</stopName>
+		<shapePtLat>38.848309</shapePtLat>
+		<shapePtLon>-6.970778</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>9</lineas>
+	</record>
+	<record>
+		<stopCode>131</stopCode>
+		<stopName>Av. de Las Vaguadas  40</stopName>
+		<shapePtLat>38.845333</shapePtLat>
+		<shapePtLon>-6.968445</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>6,9,M3,6N</lineas>
+	</record>
+	<record>
+		<stopCode>138</stopCode>
+		<stopName>Ctra Valverde 1</stopName>
+		<shapePtLat>38.849509</shapePtLat>
+		<shapePtLon>-6.966909</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>6,9,M3,CM,6N</lineas>
+	</record>
+	<record>
+		<stopCode>139</stopCode>
+		<stopName>Ctra Valverde 2</stopName>
+		<shapePtLat>38.854116</shapePtLat>
+		<shapePtLon>-6.967875</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>6,9,M3,CM,6N</lineas>
+	</record>
+	<record>
+		<stopCode>140</stopCode>
+		<stopName>Ctra Valverde 3</stopName>
+		<shapePtLat>38.859809</shapePtLat>
+		<shapePtLon>-6.971038</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>6,9,M3,CM,6N</lineas>
+	</record>
+	<record>
+		<stopCode>147</stopCode>
+		<stopName>Av. Damián Téllez Lafuente  27</stopName>
+		<shapePtLat>38.864882</shapePtLat>
+		<shapePtLon>-6.972590</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>6,9,S1,12,M1,CM,6N</lineas>
+	</record>
+	<record>
+		<stopCode>148</stopCode>
+		<stopName>Av. Damián Téllez Lafuente  9</stopName>
+		<shapePtLat>38.868194</shapePtLat>
+		<shapePtLon>-6.973009</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>3,6,9,11,13,12,M1,CM,6N</lineas>
+	</record>
+	<record>
+		<stopCode>160</stopCode>
+		<stopName>Av. de Fernando Calzadilla  25</stopName>
+		<shapePtLat>38.869767</shapePtLat>
+		<shapePtLon>-6.972974</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>3,5,9,S2,12,M1,CM,5N</lineas>
+	</record>
+	<record>
+		<stopCode>157</stopCode>
+		<stopName>Av. de Europa  3</stopName>
+		<shapePtLat>38.874271</shapePtLat>
+		<shapePtLon>-6.972692</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>2,3,5,9,CM,5N</lineas>
+	</record>
+	<record>
+		<stopCode>202</stopCode>
+		<stopName>Plaza de La Libertad</stopName>
+		<shapePtLat>38.875516</shapePtLat>
+		<shapePtLon>-6.974570</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>3,5,6,7,9,18,S1,S2,11,13,CA,CM,5N,6N,7N,18N,9N</lineas>
+	</record>
+	<record>
+		<stopCode>207</stopCode>
+		<stopName>Av. de Cristobal Colón  10</stopName>
+		<shapePtLat>38.875846</shapePtLat>
+		<shapePtLon>-6.977402</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>3,5,7,9,S1,5N,7N,18N,9N</lineas>
+	</record>
+	<record>
+		<stopCode>1</stopCode>
+		<stopName>Av. de Cristobal Colón  27</stopName>
+		<shapePtLat>38.873696</shapePtLat>
+		<shapePtLon>-6.980181</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>3,5,7,9,S1,5N,7N,18N,9N</lineas>
+	</record>
+	<record>
+		<stopCode>124</stopCode>
+		<stopName>Avenida del Perú  2</stopName>
+		<shapePtLat>38.873448</shapePtLat>
+		<shapePtLon>-6.982245</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>5,7,9,S1,5N,18N,9N</lineas>
+	</record>
+	<record>
+		<stopCode>111</stopCode>
+		<stopName>Av. Tomás Romero de Castilla  7</stopName>
+		<shapePtLat>38.872081</shapePtLat>
+		<shapePtLon>-6.983534</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>9,S1,9N</lineas>
+	</record>
+	<record>
+		<stopCode>112</stopCode>
+		<stopName>Av. Jose María Alcaraz Y Alenda  10</stopName>
+		<shapePtLat>38.870442</shapePtLat>
+		<shapePtLon>-6.985162</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>9,9N</lineas>
+	</record>
+	<record>
+		<stopCode>113</stopCode>
+		<stopName>Av. Sinforiano Madroñero  6</stopName>
+		<shapePtLat>38.870686</shapePtLat>
+		<shapePtLon>-6.988879</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>5,7,9,C2,5N,6N,7N,18N,9N</lineas>
+	</record>
+	<record>
+		<stopCode>67</stopCode>
+		<stopName>Av. de Elvas  9</stopName>
+		<shapePtLat>38.882681</shapePtLat>
+		<shapePtLon>-6.999851</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>3,9,18,9N</lineas>
+	</record>
+	<record>
+		<stopCode>1789</stopCode>
+		<stopName>Av. de Elvas  8</stopName>
+		<shapePtLat>38.882039</shapePtLat>
+		<shapePtLon>-7.007443</shapePtLon>
+		<sentido>1</sentido>
+		<lineas> </lineas>
+	</record>
+	<record>
+		<stopCode>74</stopCode>
+		<stopName>Av. de Elvas  7</stopName>
+		<shapePtLat>38.882052</shapePtLat>
+		<shapePtLon>-7.015659</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>9,18,9N</lineas>
+	</record>
+	<record>
+		<stopCode>75</stopCode>
+		<stopName>Av. de Elvas  6</stopName>
+		<shapePtLat>38.882388</shapePtLat>
+		<shapePtLon>-7.018558</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>9,18,9N</lineas>
+	</record>
+	<record>
+		<stopCode>76</stopCode>
+		<stopName>Av. de Elvas  (El Faro)</stopName>
+		<shapePtLat>38.882888</shapePtLat>
+		<shapePtLon>-7.022436</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>9,18,9N</lineas>
+	</record>
+	<record>
+		<stopCode>80</stopCode>
+		<stopName>Av. de Elvas  13</stopName>
+		<shapePtLat>38.881662</shapePtLat>
+		<shapePtLon>-7.013783</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>9,18,9N</lineas>
+	</record>
+	<record>
+		<stopCode>34</stopCode>
+		<stopName>Av. del Parque Cientifico Y Tecnológico</stopName>
+		<shapePtLat>38.887858</shapePtLat>
+		<shapePtLon>-6.999824</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>C1</lineas>
+	</record>
+	<record>
+		<stopCode>70</stopCode>
+		<stopName>Av. Javier Blanco Palenciano</stopName>
+		<shapePtLat>38.886487</shapePtLat>
+		<shapePtLon>-7.000291</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>C2</lineas>
+	</record>
+	<record>
+		<stopCode>36</stopCode>
+		<stopName>Calle Federico Mayor Zaragoza </stopName>
+		<shapePtLat>38.886518</shapePtLat>
+		<shapePtLon>-6.998433</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>3,9,18</lineas>
+	</record>
+	<record>
+		<stopCode>37</stopCode>
+		<stopName>Calle Federico Mayor Zaragoza  181</stopName>
+		<shapePtLat>38.884018</shapePtLat>
+		<shapePtLon>-6.998083</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>3,9,18</lineas>
+	</record>
+	<record>
+		<stopCode>114</stopCode>
+		<stopName>Av. Sinforiano Madroñero  7</stopName>
+		<shapePtLat>38.870580</shapePtLat>
+		<shapePtLon>-6.989023</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>5,7,9,C1,5N,6N,7N,18N,9N</lineas>
+	</record>
+	<record>
+		<stopCode>102</stopCode>
+		<stopName>Av. Jose María Alcaraz Y Alenda  11</stopName>
+		<shapePtLat>38.870274</shapePtLat>
+		<shapePtLon>-6.985196</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>9,9N</lineas>
+	</record>
+	<record>
+		<stopCode>103</stopCode>
+		<stopName>Av. Tomás Romero de Castilla  12</stopName>
+		<shapePtLat>38.871912</shapePtLat>
+		<shapePtLon>-6.983318</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>9,S1,9N</lineas>
+	</record>
+	<record>
+		<stopCode>125</stopCode>
+		<stopName>Avenida del Perú  5</stopName>
+		<shapePtLat>38.873382</shapePtLat>
+		<shapePtLon>-6.982148</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>5,7,9,S1,5N,18N,9N</lineas>
+	</record>
+	<record>
+		<stopCode>2</stopCode>
+		<stopName>Av. de Cristobal Colón  15</stopName>
+		<shapePtLat>38.873579</shapePtLat>
+		<shapePtLon>-6.980034</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>5,7,9,S1,5N,18N,9N</lineas>
+	</record>
+	<record>
+		<stopCode>210</stopCode>
+		<stopName>Av. de Cristobal Colón  11</stopName>
+		<shapePtLat>38.875427</shapePtLat>
+		<shapePtLon>-6.977506</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>3,5,7,9,S1,5N,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>211</stopCode>
+		<stopName>Plaza La Libertad (Tubasa)</stopName>
+		<shapePtLat>38.875414</shapePtLat>
+		<shapePtLon>-6.974404</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>3,5,6,7,9,18,S2,11,13,CM,5N,6N,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>248</stopCode>
+		<stopName>Calle Enrique Segura Otaño  3</stopName>
+		<shapePtLat>38.873182</shapePtLat>
+		<shapePtLon>-6.974466</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>2,3,5,6,7,9,18,21,11,13,M3,M4,CM,5N,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>236</stopCode>
+		<stopName>Av. de Fernando Calzadilla  16</stopName>
+		<shapePtLat>38.869780</shapePtLat>
+		<shapePtLon>-6.973076</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>3,4,5,6,9,S2,11,13,12,M1,CM,5N</lineas>
+	</record>
+	<record>
+		<stopCode>149</stopCode>
+		<stopName>Av. Damián Téllez Lafuente  11</stopName>
+		<shapePtLat>38.867921</shapePtLat>
+		<shapePtLon>-6.973194</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>3,4,6,9,11,13,12,M1,CM</lineas>
+	</record>
+	<record>
+		<stopCode>150</stopCode>
+		<stopName>Estacion Autobuses</stopName>
+		<shapePtLat>38.866723</shapePtLat>
+		<shapePtLon>-6.974287</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>3,11,13,CM</lineas>
+	</record>
+	<record>
+		<stopCode>153</stopCode>
+		<stopName>Av. Damián Téllez Lafuente  30</stopName>
+		<shapePtLat>38.864525</shapePtLat>
+		<shapePtLon>-6.972846</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>3,6,9,C1,S1,M1,CM</lineas>
+	</record>
+	<record>
+		<stopCode>126</stopCode>
+		<stopName>Ctra Valverde 1A</stopName>
+		<shapePtLat>38.858658</shapePtLat>
+		<shapePtLon>-6.970422</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>6,9,M3,CM,6N</lineas>
+	</record>
+	<record>
+		<stopCode>127</stopCode>
+		<stopName>Ctra Valverde 2A</stopName>
+		<shapePtLat>38.852789</shapePtLat>
+		<shapePtLon>-6.967755</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>6,9,M3,CM,6N</lineas>
+	</record>
+	<record>
+		<stopCode>128</stopCode>
+		<stopName>Ctra Valverde 3A</stopName>
+		<shapePtLat>38.848891</shapePtLat>
+		<shapePtLon>-6.967081</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>6,9,M3,CM,6N</lineas>
+	</record>
+	<record>
+		<stopCode>132</stopCode>
+		<stopName>Av. de Las Vaguadas  29</stopName>
+		<shapePtLat>38.845030</shapePtLat>
+		<shapePtLon>-6.969788</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>9</lineas>
+	</record>
+	<record>
+		<stopCode>133</stopCode>
+		<stopName>Av. de Las Vaguadas  30</stopName>
+		<shapePtLat>38.844660</shapePtLat>
+		<shapePtLon>-6.974860</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>9</lineas>
+	</record>
+	<record>
+		<stopCode>134</stopCode>
+		<stopName>Av. de Las Vaguadas  31</stopName>
+		<shapePtLat>38.844604</shapePtLat>
+		<shapePtLon>-6.977765</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>9</lineas>
+	</record>
+	<record>
+		<stopCode>135</stopCode>
+		<stopName>C/. Parque de Las Cañadas</stopName>
+		<shapePtLat>38.849204</shapePtLat>
+		<shapePtLon>-6.978441</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>9</lineas>
+	</record>
+</records>

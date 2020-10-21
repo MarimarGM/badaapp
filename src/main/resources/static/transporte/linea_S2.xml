@@ -1,0 +1,115 @@
+<?xml version="1.0" standalone="yes"?>
+<records>
+	<record>
+		<stopCode>211</stopCode>
+		<stopName>Plaza La Libertad (Tubasa)</stopName>
+		<shapePtLat>38.875414</shapePtLat>
+		<shapePtLon>-6.974404</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>3,5,6,7,9,18,S2,11,13,CM,5N,6N,7N,18N</lineas>
+	</record>
+	<record>
+		<stopCode>212</stopCode>
+		<stopName>Av. de Huelva  10</stopName>
+		<shapePtLat>38.873730</shapePtLat>
+		<shapePtLon>-6.975032</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>2,18,21,S2,M3,M4,6N</lineas>
+	</record>
+	<record>
+		<stopCode>236</stopCode>
+		<stopName>Av. de Fernando Calzadilla  16</stopName>
+		<shapePtLat>38.869780</shapePtLat>
+		<shapePtLon>-6.973076</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>3,4,5,6,9,S2,11,13,12,M1,CM,5N</lineas>
+	</record>
+	<record>
+		<stopCode>243</stopCode>
+		<stopName>Av. Juan Sebastián Elcano  10</stopName>
+		<shapePtLat>38.869092</shapePtLat>
+		<shapePtLon>-6.971270</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>5,S2,5N</lineas>
+	</record>
+	<record>
+		<stopCode>244</stopCode>
+		<stopName>Av. Juan Sebastián Elcano  66</stopName>
+		<shapePtLat>38.870429</shapePtLat>
+		<shapePtLon>-6.967054</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>5,S2,5N</lineas>
+	</record>
+	<record>
+		<stopCode>245</stopCode>
+		<stopName>Av. Juan Sebastián Elcano  56</stopName>
+		<shapePtLat>38.871540</shapePtLat>
+		<shapePtLon>-6.963990</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>5,S2,5N</lineas>
+	</record>
+	<record>
+		<stopCode>192</stopCode>
+		<stopName>Calle Santo Cristo de La Paz  96</stopName>
+		<shapePtLat>38.872358</shapePtLat>
+		<shapePtLon>-6.959987</shapePtLon>
+		<sentido>1</sentido>
+		<lineas>5,S2,5N</lineas>
+	</record>
+	<record>
+		<stopCode>191</stopCode>
+		<stopName>Ctra de Sevilla</stopName>
+		<shapePtLat>38.872362</shapePtLat>
+		<shapePtLon>-6.959694</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>4,5,S2,5N</lineas>
+	</record>
+	<record>
+		<stopCode>246</stopCode>
+		<stopName>Av. Juan Sebastián Elcano  55</stopName>
+		<shapePtLat>38.871683</shapePtLat>
+		<shapePtLon>-6.963945</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>5,S2,5N</lineas>
+	</record>
+	<record>
+		<stopCode>240</stopCode>
+		<stopName>Av. Juan Sebastián Elcano  41</stopName>
+		<shapePtLat>38.870878</shapePtLat>
+		<shapePtLon>-6.966333</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>5,S2,5N</lineas>
+	</record>
+	<record>
+		<stopCode>241</stopCode>
+		<stopName>Av. Juan Sebastián Elcano  17</stopName>
+		<shapePtLat>38.869304</shapePtLat>
+		<shapePtLon>-6.970921</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>5,S2,5N</lineas>
+	</record>
+	<record>
+		<stopCode>160</stopCode>
+		<stopName>Av. de Fernando Calzadilla  25</stopName>
+		<shapePtLat>38.869767</shapePtLat>
+		<shapePtLon>-6.972974</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>3,5,9,S2,12,M1,CM,5N</lineas>
+	</record>
+	<record>
+		<stopCode>217</stopCode>
+		<stopName>Av. de Huelva  5</stopName>
+		<shapePtLat>38.873487</shapePtLat>
+		<shapePtLon>-6.974836</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>6,S2,11,13,6N,9N</lineas>
+	</record>
+	<record>
+		<stopCode>202</stopCode>
+		<stopName>Plaza de La Libertad</stopName>
+		<shapePtLat>38.875516</shapePtLat>
+		<shapePtLon>-6.974570</shapePtLon>
+		<sentido>2</sentido>
+		<lineas>3,5,6,7,9,18,S1,S2,11,13,CA,CM,5N,6N,7N,18N,9N</lineas>
+	</record>
+</records>
